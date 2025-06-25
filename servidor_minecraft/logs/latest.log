@@ -2330,3 +2330,5 @@ BCLib - Nether BiomeSource (189f4248)
 [18:11:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
 [18:14:20] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Mine Cells]
 [18:15:38] [Server thread/INFO]: 4ndyl1s3 has completed the challenge [Centennial]
+[18:24:28] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=822, y=82, z=153} as the loot table 'ctov:pillager_outpost/halloween/tower' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[18:24:32] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=823, y=82, z=154} as the loot table 'ctov:pillager_outpost/halloween/tower' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.

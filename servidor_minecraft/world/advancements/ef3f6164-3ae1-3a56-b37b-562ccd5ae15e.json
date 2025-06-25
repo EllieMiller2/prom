@@ -531,6 +531,8 @@
       "minecraft:dark_forest": "2025-06-25 18:11:59 +0000",
       "minecraft:river": "2025-06-25 17:51:28 +0000",
       "minecraft:dripstone_caves": "2025-06-25 17:44:50 +0000",
+      "minecraft:lush_caves": "2025-06-25 18:25:55 +0000",
+      "minecraft:windswept_forest": "2025-06-25 18:22:37 +0000",
       "minecraft:plains": "2025-06-25 17:43:45 +0000"
     },
     "done": false
@@ -817,6 +819,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-06-25 18:19:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/rail": {
     "criteria": {
       "has_stick": "2025-06-25 17:41:00 +0000"
@@ -838,6 +846,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-06-25 17:38:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2025-06-25 18:25:02 +0000"
     },
     "done": true
   },
@@ -952,6 +966,12 @@
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2025-06-25 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_shrub": {
+    "criteria": {
+      "has_blackwood_sapling": "2025-06-25 18:25:02 +0000"
     },
     "done": true
   },
@@ -1162,6 +1182,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-25 17:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 18:19:25 +0000"
     },
     "done": true
   },
@@ -1456,6 +1482,12 @@
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-06-25 18:16:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-25 18:25:02 +0000"
     },
     "done": true
   },
@@ -1755,6 +1787,9 @@
       "rocky_meadow": "2025-06-25 17:51:15 +0000",
       "flower_fields": "2025-06-25 17:53:09 +0000",
       "highland_fields": "2025-06-25 17:50:50 +0000",
+      "towering_cliffs": "2025-06-25 18:23:49 +0000",
+      "old_growth_bayou": "2025-06-25 18:25:20 +0000",
+      "bioshroom_caves": "2025-06-25 18:25:46 +0000",
       "lupine_plains": "2025-06-25 18:09:35 +0000"
     },
     "done": false
@@ -1899,6 +1934,8 @@
       "rocky_meadow": "2025-06-25 17:51:15 +0000",
       "flower_fields": "2025-06-25 17:53:09 +0000",
       "highland_fields": "2025-06-25 17:50:50 +0000",
+      "towering_cliffs": "2025-06-25 18:23:49 +0000",
+      "old_growth_bayou": "2025-06-25 18:25:20 +0000",
       "lupine_plains": "2025-06-25 18:09:35 +0000"
     },
     "done": false
@@ -2926,6 +2963,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 18:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-06-25 17:39:33 +0000"
@@ -3778,6 +3821,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 18:19:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_item": "2025-06-25 18:15:06 +0000"
@@ -3829,6 +3878,12 @@
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-06-25 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 18:19:25 +0000"
     },
     "done": true
   },
@@ -4006,6 +4061,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "bioshroom_caves": "2025-06-25 18:25:46 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
       "has_stick": "2025-06-25 17:41:00 +0000"
@@ -4072,6 +4133,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 18:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-25 17:59:22 +0000"
@@ -4081,6 +4148,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-25 17:49:00 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-06-25 18:25:02 +0000"
     },
     "done": true
   },
@@ -4177,6 +4250,12 @@
   "mcdw:recipes/bows/bow_power_bow": {
     "criteria": {
       "has_iron_ingot": "2025-06-25 17:38:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-06-25 18:25:23 +0000"
     },
     "done": true
   },
@@ -4792,6 +4871,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 18:19:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-06-25 17:41:00 +0000"
@@ -4819,6 +4904,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-25 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2025-06-25 18:25:02 +0000"
     },
     "done": true
   },
@@ -5352,6 +5443,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-25 18:22:51 +0000",
       "minecraft:skeleton": "2025-06-25 17:45:24 +0000",
       "minecraft:zombie": "2025-06-25 17:45:08 +0000"
     },
@@ -5546,6 +5638,12 @@
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-06-25 17:39:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-06-25 18:25:02 +0000"
     },
     "done": true
   },
@@ -5894,6 +5992,12 @@
   "betternether:recipes/decorations/dark_oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-25 17:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 18:19:25 +0000"
     },
     "done": true
   },
@@ -6347,6 +6451,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-06-25 18:19:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-06-25 18:16:57 +0000"
@@ -6614,6 +6724,12 @@
   "techreborn:recipes/crafting_table/parts/wood_plate": {
     "criteria": {
       "has_planks": "2025-06-25 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-06-25 18:25:23 +0000"
     },
     "done": true
   },
