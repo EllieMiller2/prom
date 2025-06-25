@@ -2342,3 +2342,13 @@ BCLib - Nether BiomeSource (189f4248)
 [18:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4685ms or 93 ticks behind
 [18:47:45] [Worker-Main-15/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
 [18:47:45] [Worker-Main-15/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[18:50:28] [Server thread/INFO]: 4ndyl1s3 has made the advancement [This Must be a Sign!]
+[18:51:53] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain]] from pos class_2338{x=1627, y=103, z=-283}
+[18:51:53] [Worker-Main-14/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[18:51:53] [Worker-Main-14/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[18:51:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[18:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4478ms or 89 ticks behind
+[18:56:33] [Server thread/INFO]: 4ndyl1s3 lost connection: Disconnected
+[18:56:33] [Server thread/INFO]: 4ndyl1s3 left the game
+[18:56:33] [Server thread/INFO]: remove player wand
+[18:56:33] [Server thread/INFO]: Updating all forceload tickets for ef3f6164-3ae1-3a56-b37b-562ccd5ae15e
