@@ -1,0 +1,17 @@
+{
+	id: "15effde0-c583-3181-9b1a-3d88bb1193cd"
+	type: "player"
+	player_name: "Tfu2"
+	ranks: {
+		15effde0-c583-3181-9b1a-3d88bb1193cd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tfu2"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5976FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
