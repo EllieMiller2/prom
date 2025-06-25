@@ -2323,3 +2323,10 @@ BCLib - Nether BiomeSource (189f4248)
 [18:07:16] [Server thread/INFO]: Villager class_1646['Maximo'/4304, l='ServerLevel[world]', x=108.57, y=103.02, z=203.93] died, message: 'Maximo was slain by Kyla'
 [18:07:16] [Server thread/INFO]: Named entity class_1646['Maximo'/4304, l='ServerLevel[world]', x=108.57, y=103.02, z=203.93] died: Maximo was slain by Kyla
 [18:07:19] [Server thread/INFO]: Named entity class_1641['Kyla'/8044, l='ServerLevel[world]', x=109.76, y=102.18, z=201.59] died: Kyla burned to death
+[18:07:31] [Server thread/INFO]: Named entity class_1641['Maximo'/8146, l='ServerLevel[world]', x=106.00, y=99.18, z=201.50] died: Maximo burned to death
+[18:09:55] [Worker-Main-16/WARN]: Tried to access a block entity before it was created. class_2338{x=591, y=-47, z=218}
+[18:09:55] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=592, y=-47, z=218}
+[18:11:03] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp]] from pos class_2338{x=629, y=67, z=331}
+[18:11:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[18:14:20] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Mine Cells]
+[18:15:38] [Server thread/INFO]: 4ndyl1s3 has completed the challenge [Centennial]
