@@ -2308,3 +2308,9 @@ BCLib - Nether BiomeSource (189f4248)
 [17:41:31] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Getting an Upgrade]
 [17:43:45] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Fruits of the Field]
 [17:45:08] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Monster Hunter]
+[17:49:00] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Archer´s Paths]
+[17:50:31] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:50:31] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:52:41] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Sweet Dreams]
+[17:52:59] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Disme A Dozen]
+[17:55:17] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Close Quarters]
