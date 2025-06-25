@@ -1,0 +1,17 @@
+{
+	id: "ef3f6164-3ae1-3a56-b37b-562ccd5ae15e"
+	type: "player"
+	player_name: "4ndyl1s3"
+	ranks: {
+		ef3f6164-3ae1-3a56-b37b-562ccd5ae15e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "4ndyl1s3"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
