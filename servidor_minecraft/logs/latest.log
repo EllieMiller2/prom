@@ -2314,3 +2314,12 @@ BCLib - Nether BiomeSource (189f4248)
 [17:52:41] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Sweet Dreams]
 [17:52:59] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Disme A Dozen]
 [17:55:17] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Close Quarters]
+[17:58:39] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Amateur Archaeologist]
+[17:59:51] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Penteconter]
+[18:00:18] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Novice Spellcaster]
+[18:03:49] [Server thread/INFO]: 4ndyl1s3 has reached the goal [Choose your path]
+[18:06:40] [Server thread/INFO]: Villager class_1646['Kyla'/4301, l='ServerLevel[world]', x=111.18, y=102.54, z=200.38] died, message: 'Kyla was slain by Zombie'
+[18:06:40] [Server thread/INFO]: Named entity class_1646['Kyla'/4301, l='ServerLevel[world]', x=111.18, y=102.54, z=200.38] died: Kyla was slain by Zombie
+[18:07:16] [Server thread/INFO]: Villager class_1646['Maximo'/4304, l='ServerLevel[world]', x=108.57, y=103.02, z=203.93] died, message: 'Maximo was slain by Kyla'
+[18:07:16] [Server thread/INFO]: Named entity class_1646['Maximo'/4304, l='ServerLevel[world]', x=108.57, y=103.02, z=203.93] died: Maximo was slain by Kyla
+[18:07:19] [Server thread/INFO]: Named entity class_1641['Kyla'/8044, l='ServerLevel[world]', x=109.76, y=102.18, z=201.59] died: Kyla burned to death
