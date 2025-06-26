@@ -2788,3 +2788,38 @@ BCLib - Nether BiomeSource (19b3d91f)
 [23:15:21] [Server thread/INFO]: Tfu2 has made the advancement [When in Rome]
 [23:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [23:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23:20:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23:23:24] [Server thread/INFO]: <Tfu2> piedra lunar
+[23:23:31] [Server thread/INFO]: <Tfu2> glaming ore
+[23:23:35] [Server thread/INFO]: 4ndyl1s3 was blown up by Grenadier
+[23:23:35] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-23.23.35.dat
+[23:23:37] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:23:46] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:24:05] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 3124, 24, 42, minecells:prison
+[23:27:09] [Server thread/INFO]: Tfu2 has made the advancement [Full Moon in a Pocket]
+[23:27:53] [Server thread/INFO]: [Allend: Teleported Allend to Tfu2]
+[23:27:58] [Server thread/INFO]: Allend has made the advancement [Full Moon in a Pocket]
+[23:28:12] [Server thread/INFO]: [Allend: Teleported Allend to 1281.500000, 88.500000, 1428.500000]
+[23:28:13] [Server thread/INFO]: Villager class_1646['Morris'/44661, l='ServerLevel[world]', x=1159.64, y=240.50, z=1139.62] died, message: 'Morris hit the ground too hard'
+[23:28:13] [Server thread/INFO]: Named entity class_1646['Morris'/44661, l='ServerLevel[world]', x=1159.64, y=240.50, z=1139.62] died: Morris fell from a high place
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:28:14] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[23:29:37] [Server thread/INFO]: 4ndyl1s3 was slain by Leaping Zombie
+[23:29:37] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-23.29.37.dat
+[23:29:37] [Netty Epoll Server IO #1/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:29:37] [Netty Epoll Server IO #1/ERROR]: Combo count: 0 is dual wielding: false
+[23:29:37] [Netty Epoll Server IO #1/ERROR]: Main-hand stack: 0 air
+[23:29:37] [Netty Epoll Server IO #1/ERROR]: Off-hand stack: 0 air
+[23:29:37] [Netty Epoll Server IO #1/ERROR]: Selected slot server: 0 | client: 0
+[23:29:38] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:29:47] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.

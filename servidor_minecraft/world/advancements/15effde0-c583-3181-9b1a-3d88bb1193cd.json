@@ -10849,6 +10849,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-06-26 23:15:21 +0000",
       "in_better_spider_dungeon": "2025-06-26 19:17:51 +0000"
     },
     "done": false
@@ -12155,6 +12156,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-06-26 23:20:08 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/glaive_of_hodir": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12164,6 +12171,12 @@
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2025-06-26 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
@@ -12221,9 +12234,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/blackwood_button": {
     "criteria": {
       "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
@@ -12338,6 +12369,12 @@
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
@@ -12461,6 +12498,12 @@
     },
     "done": true
   },
+  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template": {
+    "criteria": {
+      "has_nihility_armor_trim_smithing_template": "2025-06-26 23:20:08 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-06-26 22:29:29 +0000"
@@ -12545,6 +12588,12 @@
     },
     "done": true
   },
+  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-26 23:20:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12584,6 +12633,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-26 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-06-26 23:20:08 +0000"
     },
     "done": true
   },
@@ -12815,6 +12870,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_twisting_vine_bow": {
     "criteria": {
       "has_warped_planks": "2025-06-26 22:44:27 +0000"
@@ -12827,9 +12888,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-06-26 23:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-26 22:01:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
@@ -13154,6 +13227,18 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
@@ -13169,6 +13254,12 @@
   "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
@@ -13520,6 +13611,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/fallen_icon_disc": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-26 22:52:45 +0000"
@@ -13652,9 +13749,21 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-26 23:15:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
@@ -13694,6 +13803,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-06-26 23:20:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -13718,6 +13833,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/draugr_boss_disc": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_cupboard": {
     "criteria": {
       "has_warped_cupboard": "2025-06-26 22:44:27 +0000"
@@ -13727,6 +13848,12 @@
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-06-26 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
@@ -13820,6 +13947,12 @@
     },
     "done": true
   },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "moonstone": "2025-06-26 23:27:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
@@ -13871,6 +14004,12 @@
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-06-26 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-26 23:27:09 +0000"
     },
     "done": true
   },
