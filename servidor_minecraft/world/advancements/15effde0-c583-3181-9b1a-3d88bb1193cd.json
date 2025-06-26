@@ -10454,12 +10454,14 @@
   "beachparty:main/get_all_artifacts": {
     "criteria": {
       "beachparty:rubber_ring_stripped": "2025-06-26 02:27:11 +0000",
-      "beachparty:sunglasses": "2025-06-26 20:11:33 +0000"
+      "beachparty:sunglasses": "2025-06-26 20:11:33 +0000",
+      "beachparty:bikini": "2025-06-26 22:25:14 +0000"
     },
     "done": false
   },
   "beachparty:main/hoarder": {
     "criteria": {
+      "beachparty:bikini": "2025-06-26 22:25:14 +0000",
       "beachparty:rubber_ring_stripped": "2025-06-26 02:27:11 +0000",
       "beachparty:sunglasses": "2025-06-26 20:11:33 +0000"
     },
@@ -12097,6 +12099,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/basalt_bricks_wall": {
+    "criteria": {
+      "has_basalt_bricks": "2025-06-26 22:29:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
@@ -12157,6 +12165,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_bricks_basalt_bricks_stairs": {
+    "criteria": {
+      "has_basalt_bricks": "2025-06-26 22:29:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12178,6 +12192,12 @@
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-06-26 22:34:21 +0000"
     },
     "done": true
   },
@@ -12223,6 +12243,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
+    "criteria": {
+      "has_polished_basalt": "2025-06-26 22:29:29 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12232,6 +12258,12 @@
   "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
       "has_soul_soil": "2025-06-26 22:11:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-26 22:29:29 +0000"
     },
     "done": true
   },
@@ -12367,6 +12399,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_bricks_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.basalt_bricks": "2025-06-26 22:29:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
@@ -12382,6 +12420,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:01:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
+    "criteria": {
+      "has_item": "2025-06-26 22:29:29 +0000"
     },
     "done": true
   },
@@ -12457,6 +12501,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-06-26 22:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12487,6 +12537,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 22:30:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12508,6 +12564,12 @@
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 22:30:58 +0000"
     },
     "done": true
   },
@@ -12643,6 +12705,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_bricks_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.basalt_bricks": "2025-06-26 22:29:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
@@ -12682,6 +12750,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-26 22:11:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 22:30:58 +0000"
     },
     "done": true
   },
@@ -12835,6 +12909,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_bricks_basalt_bricks_slab": {
+    "criteria": {
+      "has_basalt_bricks": "2025-06-26 22:29:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_bricks_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.basalt_bricks": "2025-06-26 22:29:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
@@ -12907,9 +12993,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 22:30:58 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 22:30:58 +0000"
     },
     "done": true
   },
