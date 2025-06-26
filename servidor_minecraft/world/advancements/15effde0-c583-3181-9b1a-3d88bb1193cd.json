@@ -10629,6 +10629,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-26 19:26:48 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_stairs": {
     "criteria": {
       "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
@@ -10650,6 +10656,12 @@
   "frostiful:recipes/building_block/packed_snow_brick_stairs": {
     "criteria": {
       "has_cut_packed_snow_bricks": "2025-06-26 18:59:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-06-26 19:27:28 +0000"
     },
     "done": true
   },
@@ -10713,6 +10725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 19:27:28 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-06-26 18:51:34 +0000"
@@ -10752,6 +10770,12 @@
   "frostiful:recipes/building_block/cut_blue_ice_slab": {
     "criteria": {
       "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-26 19:27:28 +0000"
     },
     "done": true
   },
@@ -10797,9 +10821,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-06-26 19:26:48 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-06-26 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-06-26 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice_skate_upgrade_template": {
+    "criteria": {
+      "has_ice_skate_upgrade_template": "2025-06-26 19:20:57 +0000"
     },
     "done": true
   },
