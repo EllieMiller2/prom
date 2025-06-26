@@ -2378,3 +2378,9 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [18:04:48] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Packed In]
 [18:05:09] [Server thread/INFO]: Villager class_1646['Luis'/28567, l='ServerLevel[world]', x=-1343.50, y=67.51, z=2423.70] died, message: 'Luis was frozen to death by Chillager'
 [18:05:09] [Server thread/INFO]: Named entity class_1646['Luis'/28567, l='ServerLevel[world]', x=-1343.50, y=67.51, z=2423.70] died: Luis was frozen to death by Chillager
+[18:09:16] [Server thread/INFO]: 4ndyl1s3 lost connection: Disconnected
+[18:09:16] [Server thread/INFO]: 4ndyl1s3 left the game
+[18:09:16] [Server thread/INFO]: remove player wand
+[18:09:16] [Server thread/INFO]: Updating all forceload tickets for ef3f6164-3ae1-3a56-b37b-562ccd5ae15e
+[18:09:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:09:24] [Server thread/INFO]: /stop<--[HERE]
