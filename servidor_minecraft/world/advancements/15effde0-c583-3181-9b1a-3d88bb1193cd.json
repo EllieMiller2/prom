@@ -10695,6 +10695,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-26 19:17:51 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2025-06-26 18:51:34 +0000"
@@ -10719,9 +10725,21 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-26 19:17:51 +0000"
+    },
+    "done": false
+  },
   "bewitchment:recipes/tools/waystone": {
     "criteria": {
       "has_item": "2025-06-26 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-06-26 19:11:30 +0000"
     },
     "done": true
   },
