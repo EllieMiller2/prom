@@ -520,6 +520,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-06-26 19:31:13 +0000",
       "minecraft:cherry_grove": "2025-06-25 03:57:23 +0000",
       "minecraft:sunflower_plains": "2025-06-26 02:32:23 +0000",
       "minecraft:birch_forest": "2025-06-25 04:39:58 +0000",
@@ -528,6 +529,7 @@
       "minecraft:cold_ocean": "2025-06-26 01:42:40 +0000",
       "minecraft:forest": "2025-06-25 04:24:58 +0000",
       "minecraft:deep_cold_ocean": "2025-06-26 01:46:40 +0000",
+      "minecraft:ice_spikes": "2025-06-26 19:37:17 +0000",
       "minecraft:frozen_ocean": "2025-06-26 01:48:41 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-26 02:21:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 04:56:00 +0000",
@@ -3184,6 +3186,7 @@
       "pine_taiga": "2025-06-25 04:26:02 +0000",
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
+      "frozen_tundra": "2025-06-26 19:37:45 +0000",
       "rocky_meadow": "2025-06-25 04:09:02 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
       "maple_forest": "2025-06-26 02:05:13 +0000",
@@ -3199,6 +3202,7 @@
       "pine_taiga": "2025-06-25 04:26:02 +0000",
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
+      "frozen_tundra": "2025-06-26 19:37:45 +0000",
       "rocky_meadow": "2025-06-25 04:09:02 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
       "maple_forest": "2025-06-26 02:05:13 +0000",
@@ -10647,6 +10651,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/green_coffin": {
     "criteria": {
       "has_item": "2025-06-26 18:54:37 +0000"
@@ -10659,6 +10669,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
     "criteria": {
       "has_stripped_log": "2025-06-26 19:27:28 +0000"
@@ -10668,6 +10684,12 @@
   "frostiful:adventure/find_frostologer_castle": {
     "criteria": {
       "castle": "2025-06-26 18:56:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
     },
     "done": true
   },
@@ -10713,6 +10735,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2025-06-26 18:51:34 +0000"
@@ -10728,6 +10762,18 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-06-26 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
+    "criteria": {
+      "has_icicle": "2025-06-26 19:34:51 +0000"
     },
     "done": true
   },
@@ -10773,6 +10819,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice": {
+    "criteria": {
+      "has_icicle": "2025-06-26 19:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-26 19:27:28 +0000"
@@ -10809,6 +10867,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_wall": {
     "criteria": {
       "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
@@ -10836,6 +10900,12 @@
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-06-26 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
     },
     "done": true
   },

@@ -2514,3 +2514,27 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [19:33:16] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
 [19:33:16] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-19.33.16.dat
 [19:33:17] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:33:22] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1216, 64, 2620, minecraft:overworld
+[19:33:30] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:33:30] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-19.33.30.dat
+[19:33:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:33:39] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1217, 70, 2615, minecraft:overworld
+[19:35:56] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:35:56] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-19.35.56.dat
+[19:35:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:36:00] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1519, y=-8, z=2832}
+[19:36:00] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1274, 68, 2625, minecraft:overworld
+[19:36:03] [Server thread/INFO]: 4ndyl1s3 was slain by Ravager
+[19:36:03] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-19.36.03.dat
+[19:36:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:36:07] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1278, 68, 2632, minecraft:overworld
+[19:38:04] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna_na], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos class_2338{x=-1141, y=76, z=3109}
+[19:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3612ms or 72 ticks behind
+[19:39:45] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos class_2338{x=-885, y=68, z=3125}
+[19:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6452ms or 129 ticks behind
+[19:40:17] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain]] from pos class_2338{x=-821, y=72, z=2747}
+[19:40:17] [Worker-Main-17/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[19:40:17] [Worker-Main-17/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[19:40:17] [Worker-Main-17/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[19:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5192ms or 103 ticks behind
+[19:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12472ms or 249 ticks behind

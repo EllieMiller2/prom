@@ -539,6 +539,7 @@
       "minecraft:forest": "2025-06-26 01:22:56 +0000",
       "minecraft:lush_caves": "2025-06-25 18:25:55 +0000",
       "minecraft:deep_cold_ocean": "2025-06-26 02:13:33 +0000",
+      "minecraft:ice_spikes": "2025-06-26 19:37:23 +0000",
       "minecraft:frozen_ocean": "2025-06-26 01:48:50 +0000",
       "minecraft:windswept_forest": "2025-06-25 18:22:37 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-26 02:21:25 +0000",
@@ -5083,6 +5084,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-25 18:22:51 +0000",
       "minecraft:skeleton": "2025-06-25 17:45:24 +0000",
+      "minecraft:ravager": "2025-06-26 19:36:33 +0000",
       "minecraft:vindicator": "2025-06-26 01:36:51 +0000",
       "minecraft:piglin_brute": "2025-06-25 18:40:50 +0000",
       "minecraft:spider": "2025-06-25 18:30:51 +0000",
