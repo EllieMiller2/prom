@@ -2419,3 +2419,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[00:39:39] [Server thread/INFO]: Nothing changed. The player is not an operator
