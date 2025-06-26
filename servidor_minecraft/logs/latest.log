@@ -2586,3 +2586,47 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [19:52:23] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1747, y=-37, z=2641}
+[19:56:10] [Server thread/INFO]: Tfu2 was shot by Chillager
+[19:56:10] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-19.56.10.dat
+[19:56:12] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[19:56:33] [Server thread/INFO]: Teleported Tfu2 to 4ndyl1s3
+[19:56:50] [Server thread/INFO]: 4ndyl1s3 has reached the goal [Just Getting Warmed Up]
+[19:57:10] [Server thread/INFO]: Tfu2 has made the advancement [Biceps Required]
+[19:57:24] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:57:24] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-19.57.24.dat
+[19:57:26] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:57:26] [Server thread/INFO]: Tfu2 was shot by Chillager
+[19:57:29] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[19:57:39] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1774, 78, 2748, minecraft:overworld
+[19:57:52] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:57:52] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:58:44] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-261, y=2, z=324}
+[19:59:55] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:59:55] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-19.59.55.dat
+[19:59:55] [Netty Epoll Server IO #2/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:59:55] [Netty Epoll Server IO #2/ERROR]: Combo count: 15 is dual wielding: false
+[19:59:55] [Netty Epoll Server IO #2/ERROR]: Main-hand stack: 0 air
+[19:59:55] [Netty Epoll Server IO #2/ERROR]: Off-hand stack: 0 air
+[19:59:55] [Netty Epoll Server IO #2/ERROR]: Selected slot server: 0 | client: 0
+[19:59:56] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:59:58] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1762, 65, 2750, minecraft:overworld
+[20:00:15] [Server thread/INFO]: Tfu2 was shot by Skeleton
+[20:00:15] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:00:17] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[20:00:37] [Server thread/INFO]: Incorrect argument for command
+[20:00:37] [Server thread/INFO]: tp /tp Tfu2 4ndy/tp fu2 4ndyl1s3<--[HERE]
+[20:01:01] [Server thread/INFO]: Teleported Tfu2 to 4ndyl1s3
+[20:01:33] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1776, 78, 2734, minecraft:overworld
+[20:02:46] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[20:02:46] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-20.02.46.dat
+[20:02:48] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[20:02:53] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1758, 66, 2737, minecraft:overworld
+[20:02:54] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1736, 66, 2730, minecraft:overworld
+[20:02:59] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[20:02:59] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-20.02.59.dat
+[20:03:02] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[20:03:02] [Server thread/INFO]: Tfu2 was slain by Ravager
+[20:03:02] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-20.03.02.dat
+[20:03:04] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[20:03:06] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1758, 66, 2737, minecraft:overworld
+[20:03:06] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1723, 67, 2734, minecraft:overworld

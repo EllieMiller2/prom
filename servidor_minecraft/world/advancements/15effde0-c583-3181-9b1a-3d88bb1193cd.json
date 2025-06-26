@@ -3184,11 +3184,13 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-06-26 19:59:27 +0000",
       "pine_taiga": "2025-06-25 04:26:02 +0000",
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
       "frozen_tundra": "2025-06-26 19:37:45 +0000",
       "rocky_meadow": "2025-06-25 04:09:02 +0000",
+      "flower_fields": "2025-06-26 19:58:34 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
       "maple_forest": "2025-06-26 02:05:13 +0000",
       "temperate_grove": "2025-06-25 04:48:36 +0000",
@@ -3200,11 +3202,13 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-06-26 19:59:27 +0000",
       "pine_taiga": "2025-06-25 04:26:02 +0000",
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
       "frozen_tundra": "2025-06-26 19:37:45 +0000",
       "rocky_meadow": "2025-06-25 04:09:02 +0000",
+      "flower_fields": "2025-06-26 19:58:34 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
       "maple_forest": "2025-06-26 02:05:13 +0000",
       "temperate_grove": "2025-06-25 04:48:36 +0000",
@@ -10757,6 +10761,12 @@
   "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-06-26 19:57:10 +0000"
     },
     "done": true
   },

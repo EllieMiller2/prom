@@ -10828,9 +10828,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-26 18:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
     },
     "done": true
   },
@@ -10906,15 +10924,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-26 18:54:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2025-06-26 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
     },
     "done": true
   },
@@ -10927,6 +10969,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-26 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
     },
     "done": true
   },
@@ -10948,6 +10996,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/wayfinder_armor_trim_smithing_template": {
     "criteria": {
       "has_light_gray_terracotta": "2025-06-26 18:53:36 +0000"
@@ -10957,6 +11011,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-26 18:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
     },
     "done": true
   },
@@ -10972,9 +11032,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-26 18:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
     },
     "done": true
   },
@@ -11026,6 +11098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-06-26 19:07:54 +0000"
@@ -11038,6 +11116,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-06-26 18:53:36 +0000"
@@ -11047,6 +11143,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-26 18:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
     },
     "done": true
   },
@@ -11071,6 +11173,12 @@
   "beachparty:main/welcome_to_the_beach": {
     "criteria": {
       "enter_beach": "2025-06-26 19:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
     },
     "done": true
   },
@@ -11116,6 +11224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
     "criteria": {
       "has_icicle": "2025-06-26 19:11:31 +0000"
@@ -11125,6 +11239,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-06-26 18:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
     },
     "done": true
   },
@@ -11182,6 +11302,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-26 19:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-06-26 19:27:49 +0000"
@@ -11197,6 +11335,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-06-26 19:13:19 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-06-26 19:56:50 +0000"
     },
     "done": true
   },
@@ -11341,6 +11485,12 @@
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-26 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-26 19:54:28 +0000"
     },
     "done": true
   },
