@@ -2753,3 +2753,6 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [20:23:27] [Server thread/INFO]: 4ndyl1s3 left the game
 [20:23:27] [Server thread/INFO]: remove player wand
 [20:23:27] [Server thread/INFO]: Updating all forceload tickets for ef3f6164-3ae1-3a56-b37b-562ccd5ae15e
+[20:29:38] [Server thread/INFO]: Tfu2 has made the advancement [Best Friends Forever]
+[20:34:19] [Server thread/INFO]: Villager class_1646['Rocco'/41671, l='ServerLevel[world]', x=-2034.70, y=62.00, z=2201.50] died, message: 'Rocco was shot by Chillager'
+[20:34:19] [Server thread/INFO]: Named entity class_1646['Rocco'/41671, l='ServerLevel[world]', x=-2034.70, y=62.00, z=2201.50] died: Rocco was shot by Chillager

@@ -3230,6 +3230,7 @@
       "minecraft:pillager": "2025-06-26 02:23:23 +0000",
       "minecraft:skeleton": "2025-06-26 01:34:51 +0000",
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
+      "minecraft:stray": "2025-06-26 20:22:06 +0000",
       "minecraft:zombie": "2025-06-25 04:09:14 +0000",
       "minecraft:drowned": "2025-06-26 20:10:59 +0000"
     },
@@ -10630,6 +10631,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-06-26 20:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -10690,6 +10697,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-26 20:29:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -10741,6 +10754,12 @@
   "frostiful:recipes/building_block/packed_snow_brick_stairs": {
     "criteria": {
       "has_cut_packed_snow_bricks": "2025-06-26 18:59:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-06-26 20:21:18 +0000"
     },
     "done": true
   },
@@ -10888,6 +10907,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-06-26 20:21:18 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/packed_snow_brick_walls": {
     "criteria": {
       "has_cut_packed_snow_bricks": "2025-06-26 18:59:21 +0000"
@@ -10945,6 +10970,12 @@
   "ae2:recipes/misc/misc/chests_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-26 20:23:16 +0000"
     },
     "done": true
   },
@@ -11068,6 +11099,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-26 20:23:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-06-26 20:21:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -11125,6 +11168,12 @@
   "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-26 20:23:16 +0000"
     },
     "done": true
   },
@@ -11325,6 +11374,12 @@
       "has_item": "2025-06-26 18:51:34 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-06-26 20:23:16 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
