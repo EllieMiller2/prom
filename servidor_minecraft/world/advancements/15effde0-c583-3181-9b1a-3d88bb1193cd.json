@@ -524,6 +524,7 @@
       "minecraft:cherry_grove": "2025-06-25 03:57:23 +0000",
       "minecraft:sunflower_plains": "2025-06-26 02:32:23 +0000",
       "minecraft:birch_forest": "2025-06-25 04:39:58 +0000",
+      "minecraft:beach": "2025-06-26 19:40:40 +0000",
       "minecraft:river": "2025-06-25 04:08:57 +0000",
       "minecraft:snowy_plains": "2025-06-26 18:53:07 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:42:40 +0000",
@@ -10651,9 +10652,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
     },
     "done": true
   },
@@ -10759,6 +10772,12 @@
     },
     "done": true
   },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2025-06-26 19:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-06-26 19:27:28 +0000"
@@ -10768,6 +10787,12 @@
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
     },
     "done": true
   },
@@ -10786,6 +10811,12 @@
   "frostiful:recipes/building_block/cut_packed_ice_stairs": {
     "criteria": {
       "has_cut_packed_ice": "2025-06-26 19:03:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-26 19:44:36 +0000"
     },
     "done": true
   },
@@ -10837,6 +10868,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-06-26 18:51:34 +0000"
@@ -10846,6 +10883,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-26 18:59:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
     },
     "done": true
   },
@@ -10870,6 +10913,18 @@
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2025-06-26 19:46:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
     },
     "done": true
   },
