@@ -2432,3 +2432,28 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [19:02:30] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1421, 70, 2395, minecraft:overworld
 [19:02:31] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
 [19:02:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:02:56] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:03:01] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:03:28] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:03:28] [Server thread/INFO]: Did not backup data (grave data empty)
+[19:03:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:03:57] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:03:57] [Server thread/INFO]: Did not backup data (grave data empty)
+[19:04:03] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:04:23] [Server thread/INFO]: 4ndyl1s3 was shot by Chillager
+[19:04:23] [Server thread/INFO]: Did not backup data (grave data empty)
+[19:04:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[19:04:50] [Server thread/INFO]: Tfu2 was shot by Chillager
+[19:04:51] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[19:05:01] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1416, 64, 2402, minecraft:overworld
+[19:05:33] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1421, 71, 2399, minecraft:overworld
+[19:05:42] [Server thread/INFO]: Tfu2 has made the advancement [Voluntary Exile]
+[19:07:43] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1420, 70, 2395, minecraft:overworld
+[19:08:07] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1421, 72, 2398, minecraft:overworld
+[19:08:51] [Server thread/INFO]: Tfu2 was shot by Chillager
+[19:08:53] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[19:08:58] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1418, 70, 2395, minecraft:overworld
+[19:09:17] [Server thread/INFO]: Tfu2 was shot by Chillager
+[19:09:18] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[19:09:33] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1418, 70, 2399, minecraft:overworld
+[19:11:30] [Server thread/INFO]: Tfu2 has reached the goal [Just Getting Warmed Up]

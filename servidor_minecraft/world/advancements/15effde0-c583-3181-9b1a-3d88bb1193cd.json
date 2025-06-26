@@ -10617,9 +10617,21 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_packed_ice_slab": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-06-26 19:03:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-06-26 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs": {
+    "criteria": {
+      "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
     },
     "done": true
   },
@@ -10689,9 +10701,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-26 19:05:42 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-06-26 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_stairs": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-06-26 19:03:17 +0000"
     },
     "done": true
   },
@@ -10704,6 +10728,12 @@
   "frostiful:recipes/building_block/packed_snow_brick_slab": {
     "criteria": {
       "has_packed_snow_bricks": "2025-06-26 18:59:21 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab": {
+    "criteria": {
+      "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
     },
     "done": true
   },
@@ -10722,6 +10752,30 @@
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2025-06-26 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-06-26 19:08:10 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_packed_ice_wall": {
+    "criteria": {
+      "has_cut_packed_ice": "2025-06-26 19:03:17 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall": {
+    "criteria": {
+      "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-26 19:04:27 +0000"
     },
     "done": true
   },
