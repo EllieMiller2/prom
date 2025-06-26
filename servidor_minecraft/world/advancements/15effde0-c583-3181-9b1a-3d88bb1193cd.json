@@ -527,6 +527,7 @@
       "minecraft:beach": "2025-06-26 19:40:40 +0000",
       "minecraft:river": "2025-06-25 04:08:57 +0000",
       "minecraft:snowy_plains": "2025-06-26 18:53:07 +0000",
+      "minecraft:stony_shore": "2025-06-26 21:08:16 +0000",
       "minecraft:snowy_taiga": "2025-06-26 20:50:23 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:42:40 +0000",
       "minecraft:forest": "2025-06-25 04:24:58 +0000",
@@ -534,6 +535,7 @@
       "minecraft:ice_spikes": "2025-06-26 19:37:17 +0000",
       "minecraft:frozen_ocean": "2025-06-26 01:48:41 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-26 02:21:40 +0000",
+      "minecraft:ocean": "2025-06-26 21:07:21 +0000",
       "minecraft:snowy_beach": "2025-06-26 20:13:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 04:56:00 +0000",
       "minecraft:meadow": "2025-06-25 04:22:22 +0000",
@@ -3191,6 +3193,7 @@
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
       "frozen_tundra": "2025-06-26 19:37:45 +0000",
+      "grassy_beach": "2025-06-26 21:09:26 +0000",
       "rocky_meadow": "2025-06-25 04:09:02 +0000",
       "flower_fields": "2025-06-26 19:58:34 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
@@ -3209,6 +3212,7 @@
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
       "frozen_tundra": "2025-06-26 19:37:45 +0000",
+      "grassy_beach": "2025-06-26 21:09:26 +0000",
       "rocky_meadow": "2025-06-25 04:09:02 +0000",
       "flower_fields": "2025-06-26 19:58:34 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
@@ -10776,6 +10780,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
@@ -10860,6 +10870,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/building_blocks/salt_block": {
     "criteria": {
       "has_item": "2025-06-26 20:15:50 +0000"
@@ -10869,6 +10885,12 @@
   "twigs:recipes/bricks/chiseled_bricks": {
     "criteria": {
       "has_item": "2025-06-26 20:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -10974,6 +10996,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
@@ -11007,6 +11035,18 @@
   "simplyswords:caelestis": {
     "criteria": {
       "requirement": "2025-06-26 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11067,6 +11107,12 @@
   "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
       "has_golden_chestplate": "2025-06-26 18:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11220,6 +11266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-06-26 21:02:19 +0000"
@@ -11256,6 +11308,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_dining_bench": {
     "criteria": {
       "has_acacia_dining_bench": "2025-06-26 21:02:19 +0000"
@@ -11271,6 +11335,12 @@
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-26 21:11:37 +0000"
     },
     "done": true
   },
@@ -11328,6 +11398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -11343,6 +11419,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11373,6 +11455,12 @@
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11430,6 +11518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_beam": {
     "criteria": {
       "has_stripped_log": "2025-06-26 21:02:01 +0000"
@@ -11484,9 +11578,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/packed_snow_brick_slab": {
     "criteria": {
       "has_packed_snow_bricks": "2025-06-26 18:59:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11616,6 +11722,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-26 21:12:21 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/misc/fur_upgrade_template": {
     "criteria": {
       "has_fur_upgrade_template": "2025-06-26 19:08:10 +0000"
@@ -11625,6 +11737,12 @@
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-06-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11640,15 +11758,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11673,6 +11809,18 @@
   "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11730,6 +11878,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-06-26 21:11:32 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_wall": {
     "criteria": {
       "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
@@ -11757,6 +11911,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_frost": {
     "criteria": {
       "has_core_specification_item": "2025-06-26 19:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
@@ -11817,6 +11977,12 @@
   "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 21:11:32 +0000"
     },
     "done": true
   },
