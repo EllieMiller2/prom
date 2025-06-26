@@ -10632,6 +10632,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-06-26 20:21:18 +0000"
@@ -10674,6 +10680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta_medium_pot": "2025-06-26 20:31:28 +0000"
@@ -10683,6 +10695,12 @@
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-06-26 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -10716,6 +10734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -10746,6 +10770,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
@@ -10761,6 +10791,12 @@
   "techreborn:recipes/crafting_table/parts/basic_display": {
     "criteria": {
       "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -10800,6 +10836,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_seat": {
+    "criteria": {
+      "has_plank": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/packed_snow_brick_stairs": {
     "criteria": {
       "has_cut_packed_snow_bricks": "2025-06-26 18:59:21 +0000"
@@ -10836,6 +10878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-26 20:31:42 +0000"
@@ -10857,6 +10905,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -10884,6 +10938,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thin_pot": {
     "criteria": {
       "has_terracotta_thin_pot": "2025-06-26 20:31:28 +0000"
@@ -10899,6 +10959,12 @@
   "techreborn:recipes/industrial_electrolyzer/sand": {
     "criteria": {
       "has_sand": "2025-06-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -10932,6 +10998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "simplyswords:caelestis": {
     "criteria": {
       "requirement": "2025-06-26 18:49:40 +0000"
@@ -10959,6 +11031,12 @@
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-06-26 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -11034,6 +11112,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -11106,6 +11190,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "simplyswords:ribboncleaver": {
     "criteria": {
       "requirement": "2025-06-26 19:57:10 +0000"
@@ -11121,6 +11217,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -11142,9 +11244,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -11163,6 +11277,18 @@
   "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 21:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -11256,6 +11382,18 @@
     },
     "done": true
   },
+  "vinery:recipes/acacia_wine_rack_big": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -11289,6 +11427,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-06-26 21:02:01 +0000"
     },
     "done": true
   },
@@ -11394,6 +11538,12 @@
     },
     "done": true
   },
+  "vinery:recipes/acacia_wine_rack_small": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-06-26 20:31:28 +0000"
@@ -11424,6 +11574,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_support": {
+    "criteria": {
+      "has_plank": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-06-26 18:51:34 +0000"
@@ -11433,6 +11589,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-26 18:59:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -11490,6 +11652,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
     "criteria": {
       "has_log": "2025-06-26 20:31:40 +0000"
@@ -11526,9 +11694,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/sand_from_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -11562,9 +11748,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2025-06-26 21:02:19 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_frost": {
     "criteria": {
       "has_core_specification_item": "2025-06-26 19:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:02:19 +0000"
     },
     "done": true
   },
@@ -11577,6 +11775,12 @@
   "handcrafted:recipes/misc/terracotta_thick_pot": {
     "criteria": {
       "has_terracotta_thick_pot": "2025-06-26 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-26 21:02:01 +0000"
     },
     "done": true
   },
