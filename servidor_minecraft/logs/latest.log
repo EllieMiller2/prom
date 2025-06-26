@@ -2324,3 +2324,5 @@ BCLib - Nether BiomeSource (189f4248)
 [17:27:16] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Not Today, Thank You]
 [17:41:47] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
 [17:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:54:10] [Worker-Main-1/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[17:54:10] [Worker-Main-1/WARN]: Non-existent template pool reference: ctov:village/waystone/sand

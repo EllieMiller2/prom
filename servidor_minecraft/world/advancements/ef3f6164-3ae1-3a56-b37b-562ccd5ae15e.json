@@ -9422,6 +9422,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-26 17:42:04 +0000"
@@ -9464,6 +9470,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/snort_pottery_sherd": {
+    "criteria": {
+      "has_scute": "2025-06-26 17:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-26 17:37:24 +0000"
@@ -9482,15 +9500,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-06-26 17:43:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-06-26 17:06:04 +0000"
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-06-26 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-06-26 17:43:13 +0000"
     },
     "done": true
   },
@@ -9512,6 +9554,18 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-26 17:34:34 +0000"
@@ -9527,6 +9581,12 @@
   "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-26 17:19:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-06-26 17:45:02 +0000"
     },
     "done": true
   },
@@ -9560,6 +9620,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_gravity": {
     "criteria": {
       "has_ender_eye": "2025-06-26 17:28:23 +0000"
@@ -9590,6 +9662,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_lead": {
     "criteria": {
       "has_raw_lead_ores": "2025-06-26 17:42:09 +0000"
@@ -9605,6 +9683,18 @@
   "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-26 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-06-26 17:43:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_leggings": {
+    "criteria": {
+      "has_scute": "2025-06-26 17:45:05 +0000"
     },
     "done": true
   },
@@ -9626,15 +9716,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-26 17:42:04 +0000"
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-06-26 17:19:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-26 17:50:30 +0000"
     },
     "done": true
   },
@@ -9764,6 +9872,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-26 17:06:04 +0000"
@@ -9818,9 +9932,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-26 17:43:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-26 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_chestplate": {
+    "criteria": {
+      "has_scute": "2025-06-26 17:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-26 17:43:13 +0000"
     },
     "done": true
   },
@@ -9836,6 +9968,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-06-26 17:46:51 +0000"
+    },
+    "done": true
+  },
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-06-26 17:28:23 +0000"
@@ -9845,6 +9983,18 @@
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-06-26 17:06:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-26 17:50:30 +0000"
     },
     "done": true
   },
@@ -9863,6 +10013,12 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-06-26 17:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-06-26 17:43:02 +0000"
     },
     "done": true
   },
@@ -9896,6 +10052,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/turtle_armor_boots": {
+    "criteria": {
+      "has_scute": "2025-06-26 17:45:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-26 17:42:07 +0000"
@@ -9917,6 +10079,12 @@
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-26 17:34:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-06-26 17:46:42 +0000"
     },
     "done": true
   },
@@ -9944,6 +10112,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-06-26 17:46:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-06-26 17:42:04 +0000"
@@ -9955,6 +10129,12 @@
       "crit_1": "2025-06-26 17:42:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-06-26 17:45:05 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
@@ -10016,9 +10196,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-26 17:50:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-26 17:42:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-06-26 17:50:30 +0000"
     },
     "done": true
   },
