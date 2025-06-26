@@ -531,6 +531,7 @@
       "minecraft:snowy_plains": "2025-06-26 18:53:07 +0000",
       "minecraft:stony_shore": "2025-06-26 21:08:16 +0000",
       "minecraft:snowy_taiga": "2025-06-26 20:50:23 +0000",
+      "minecraft:dripstone_caves": "2025-06-26 23:03:34 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:42:40 +0000",
       "minecraft:forest": "2025-06-25 04:24:58 +0000",
       "minecraft:deep_cold_ocean": "2025-06-26 01:46:40 +0000",
@@ -3195,6 +3196,7 @@
       "pine_taiga": "2025-06-25 04:26:02 +0000",
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "muddy_river": "2025-06-26 21:54:10 +0000",
+      "ancient_delta": "2025-06-26 23:01:40 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
       "frozen_tundra": "2025-06-26 19:37:45 +0000",
       "redstone_caves": "2025-06-26 22:47:54 +0000",
@@ -3251,6 +3253,7 @@
       "minecraft:pillager": "2025-06-26 02:23:23 +0000",
       "minecraft:skeleton": "2025-06-26 01:34:51 +0000",
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
+      "minecraft:creeper": "2025-06-26 23:02:51 +0000",
       "minecraft:zombified_piglin": "2025-06-26 22:17:14 +0000",
       "minecraft:stray": "2025-06-26 20:22:06 +0000",
       "minecraft:zombie": "2025-06-25 04:09:14 +0000",
@@ -6068,6 +6071,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "pine_log": "2025-06-25 04:33:00 +0000",
+      "blackwood_log": "2025-06-26 23:00:40 +0000",
       "maple_log": "2025-06-26 02:05:33 +0000"
     },
     "done": false
@@ -12084,6 +12088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
     "criteria": {
       "has_ruby_gem": "2025-06-26 22:47:20 +0000"
@@ -12162,6 +12172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/warped_table": {
     "criteria": {
       "has_bamboo": "2025-06-26 22:44:27 +0000"
@@ -12189,6 +12205,12 @@
   "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
     "criteria": {
       "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_button": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
     },
     "done": true
   },
@@ -12243,6 +12265,12 @@
   "handcrafted:recipes/misc/warped_nightstand": {
     "criteria": {
       "has_warped_nightstand": "2025-06-26 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-26 23:04:14 +0000"
     },
     "done": true
   },
@@ -12330,6 +12358,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_blackwood": {
+    "criteria": {
+      "has_item": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/polished_basalt_basalt_bricks": {
     "criteria": {
       "has_polished_basalt": "2025-06-26 22:29:29 +0000"
@@ -12339,6 +12373,18 @@
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },
@@ -12414,9 +12460,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blackwood_slab": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },
@@ -12441,6 +12499,12 @@
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },
@@ -12507,6 +12571,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },
@@ -12612,6 +12682,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/cooked_meat": {
     "criteria": {
       "has_cooked_meat": "2025-06-26 22:07:03 +0000"
@@ -12666,6 +12748,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/blackwood_trapdoor": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12690,6 +12778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-26 22:52:45 +0000"
@@ -12705,6 +12799,12 @@
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },
@@ -12732,9 +12832,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-26 23:01:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-06-26 22:52:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-26 23:01:26 +0000"
     },
     "done": true
   },
@@ -12747,6 +12859,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 23:00:40 +0000"
     },
     "done": true
   },
@@ -12771,6 +12889,12 @@
   "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
     "criteria": {
       "has_netherrack_stalactite": "2025-06-26 22:27:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_door": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
     },
     "done": true
   },
@@ -12801,6 +12925,18 @@
   "soulsweapons:recipes/combat/crucible_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-26 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },
@@ -12927,7 +13063,8 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-06-26 22:47:54 +0000",
-      "scorching_caves": "2025-06-26 22:54:23 +0000"
+      "scorching_caves": "2025-06-26 22:54:23 +0000",
+      "ancient_delta": "2025-06-26 23:01:40 +0000"
     },
     "done": false
   },
@@ -13123,6 +13260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -13243,6 +13386,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_sign": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/withered_chest": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -13291,6 +13446,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-26 22:52:45 +0000"
@@ -13306,6 +13467,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },
@@ -13327,6 +13494,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_fence": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-06-26 21:58:43 +0000"
@@ -13342,6 +13521,12 @@
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
+    "criteria": {
+      "has_log": "2025-06-26 23:00:40 +0000"
     },
     "done": true
   },
@@ -13429,6 +13614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dawnbreaker": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
@@ -13471,6 +13662,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blackwood_stairs": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
@@ -13501,6 +13704,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/blackwood_pressure_plate": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_fence_gate": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-06-26 22:44:27 +0000"
@@ -13528,6 +13749,12 @@
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2025-06-26 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
     },
     "done": true
   },

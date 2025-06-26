@@ -2761,3 +2761,16 @@ BCLib - Nether BiomeSource (19b3d91f)
 [22:58:20] [Server thread/INFO]: Named entity class_1646['Ray'/29849, l='ServerLevel[world]', x=1271.78, y=83.00, z=1370.45] died: Ray was shot by Illusioner
 [22:58:26] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1280, 82, 1381, minecraft:overworld
 [22:58:27] [Server thread/INFO]: 4ndyl1s3 has made the advancement [World of illusion]
+[23:00:28] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Tfu2]
+[23:00:33] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Like Diamonds, But Less Shiny]
+[23:01:58] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[23:02:06] [Server thread/INFO]: Teleported 4ndyl1s3 to Allend
+[23:04:14] [Server thread/INFO]: Tfu2 has made the advancement [Chest Slayer]
+[23:05:48] [Server thread/INFO]: Tfu2 has made the advancement [The Beginning]
+[23:05:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1432, y=-47, z=1013}
+[23:06:11] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration
+[23:07:51] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Surge Protector]
+[23:08:08] [Server thread/INFO]: Villager class_1646['Jennette'/35646, l='ServerLevel[world]', x=1160.98, y=240.00, z=1139.59] died, message: 'Jennette hit the ground too hard'
+[23:08:08] [Server thread/INFO]: Named entity class_1646['Jennette'/35646, l='ServerLevel[world]', x=1160.98, y=240.00, z=1139.59] died: Jennette fell from a high place
+[23:08:17] [Server thread/INFO]: Tfu2 has made the advancement [The Secrets of Enchanting]
+[23:08:21] [Server thread/WARN]: Tfu2 moved wrongly!
