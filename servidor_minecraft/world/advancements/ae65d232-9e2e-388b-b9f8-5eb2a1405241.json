@@ -283,6 +283,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-06-25 03:57:23 +0000",
       "minecraft:birch_forest": "2025-06-25 04:39:54 +0000",
+      "minecraft:beach": "2025-06-26 21:23:11 +0000",
       "minecraft:river": "2025-06-25 04:09:05 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:45:50 +0000",
       "minecraft:forest": "2025-06-25 04:23:53 +0000",
@@ -2806,6 +2807,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-06-26 21:17:30 +0000",
       "pine_taiga": "2025-06-25 04:26:10 +0000",
       "willow_forest": "2025-06-25 04:23:50 +0000",
       "frozen_tundra": "2025-06-26 02:05:55 +0000",
@@ -2818,6 +2820,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-06-26 21:17:30 +0000",
       "pine_taiga": "2025-06-25 04:26:10 +0000",
       "willow_forest": "2025-06-25 04:23:50 +0000",
       "frozen_tundra": "2025-06-26 02:05:55 +0000",
@@ -11370,6 +11373,12 @@
     },
     "done": true
   },
+  "simplyswords:caelestis": {
+    "criteria": {
+      "requirement": "2025-06-26 21:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-26 21:09:17 +0000"
@@ -11385,6 +11394,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-26 21:09:17 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2025-06-26 21:23:11 +0000"
     },
     "done": true
   },
