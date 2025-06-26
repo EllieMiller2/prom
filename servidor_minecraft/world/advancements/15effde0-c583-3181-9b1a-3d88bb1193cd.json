@@ -533,6 +533,7 @@
       "minecraft:ice_spikes": "2025-06-26 19:37:17 +0000",
       "minecraft:frozen_ocean": "2025-06-26 01:48:41 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-26 02:21:40 +0000",
+      "minecraft:snowy_beach": "2025-06-26 20:13:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 04:56:00 +0000",
       "minecraft:meadow": "2025-06-25 04:22:22 +0000",
       "minecraft:plains": "2025-06-25 04:08:55 +0000"
@@ -3229,7 +3230,8 @@
       "minecraft:pillager": "2025-06-26 02:23:23 +0000",
       "minecraft:skeleton": "2025-06-26 01:34:51 +0000",
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
-      "minecraft:zombie": "2025-06-25 04:09:14 +0000"
+      "minecraft:zombie": "2025-06-25 04:09:14 +0000",
+      "minecraft:drowned": "2025-06-26 20:10:59 +0000"
     },
     "done": false
   },
@@ -10430,13 +10432,15 @@
   },
   "beachparty:main/get_all_artifacts": {
     "criteria": {
-      "beachparty:rubber_ring_stripped": "2025-06-26 02:27:11 +0000"
+      "beachparty:rubber_ring_stripped": "2025-06-26 02:27:11 +0000",
+      "beachparty:sunglasses": "2025-06-26 20:11:33 +0000"
     },
     "done": false
   },
   "beachparty:main/hoarder": {
     "criteria": {
-      "beachparty:rubber_ring_stripped": "2025-06-26 02:27:11 +0000"
+      "beachparty:rubber_ring_stripped": "2025-06-26 02:27:11 +0000",
+      "beachparty:sunglasses": "2025-06-26 20:11:33 +0000"
     },
     "done": false
   },
@@ -10626,6 +10630,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_packed_ice_slab": {
     "criteria": {
       "has_cut_packed_ice": "2025-06-26 19:03:17 +0000"
@@ -10638,6 +10666,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-26 19:26:48 +0000"
@@ -10647,6 +10687,12 @@
   "frostiful:recipes/building_block/cut_blue_ice_stairs": {
     "criteria": {
       "has_cut_blue_ice": "2025-06-26 19:03:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10668,9 +10714,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/basic_display": {
     "criteria": {
       "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10686,15 +10744,63 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_plate_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-06-26 20:15:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
     "criteria": {
       "has_stripped_log": "2025-06-26 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-06-26 20:15:41 +0000"
     },
     "done": true
   },
@@ -10710,9 +10816,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "simplyswords:caelestis": {
     "criteria": {
       "requirement": "2025-06-26 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10722,9 +10846,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tile_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
       "has_golden_chestplate": "2025-06-26 18:53:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10740,9 +10900,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-06-26 18:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10788,6 +10978,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-06-26 19:27:28 +0000"
@@ -10800,9 +10996,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
     "criteria": {
       "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10812,15 +11032,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_plate_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-06-26 18:51:34 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_packed_ice_stairs": {
     "criteria": {
       "has_cut_packed_ice": "2025-06-26 19:03:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10835,6 +11085,12 @@
       "in_better_spider_dungeon": "2025-06-26 19:17:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-26 20:15:41 +0000"
+    },
+    "done": true
   },
   "bewitchment:recipes/tools/waystone": {
     "criteria": {
@@ -10860,6 +11116,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
@@ -10869,6 +11131,12 @@
   "frostiful:recipes/misc/ice": {
     "criteria": {
       "has_icicle": "2025-06-26 19:34:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10896,6 +11164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/lsu_storage": {
     "criteria": {
       "has_electronic_circuit": "2025-06-26 19:46:32 +0000"
@@ -10914,9 +11188,27 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-06-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_packed_ice_wall": {
     "criteria": {
       "has_cut_packed_ice": "2025-06-26 19:03:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10926,9 +11218,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-26 20:15:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/frequency_transmitter": {
     "criteria": {
       "has_circuit": "2025-06-26 19:46:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
@@ -10944,6 +11260,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_frost": {
     "criteria": {
       "has_core_specification_item": "2025-06-26 19:04:27 +0000"
@@ -10953,6 +11275,24 @@
   "techreborn:recipes/extractor/bucket_from_lava_bucket": {
     "criteria": {
       "has_lava_bucket": "2025-06-26 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 20:15:42 +0000"
     },
     "done": true
   },
