@@ -526,6 +526,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-26 21:45:58 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-26 21:22:27 +0000",
       "minecraft:frozen_river": "2025-06-26 17:53:51 +0000",
       "minecraft:cherry_grove": "2025-06-25 17:33:16 +0000",
@@ -5110,10 +5111,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-26 21:36:26 +0000",
+      "beef": "2025-06-26 21:35:40 +0000",
       "apple": "2025-06-25 17:45:11 +0000",
       "pumpkin_pie": "2025-06-25 17:54:16 +0000",
       "bread": "2025-06-25 17:57:04 +0000",
-      "rotten_flesh": "2025-06-25 17:47:22 +0000"
+      "rotten_flesh": "2025-06-25 17:47:22 +0000",
+      "golden_carrot": "2025-06-26 22:00:35 +0000"
     },
     "done": false
   },
@@ -5324,6 +5328,8 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-06-26 21:16:59 +0000",
+      "shrubland": "2025-06-26 21:40:10 +0000",
+      "cold_deciduous_forest": "2025-06-26 21:46:04 +0000",
       "pine_taiga": "2025-06-25 18:09:46 +0000",
       "autumnal_maple_forest": "2025-06-25 18:47:49 +0000",
       "willow_forest": "2025-06-25 18:07:34 +0000",
@@ -5338,6 +5344,7 @@
       "towering_cliffs": "2025-06-25 18:23:49 +0000",
       "temperate_grove": "2025-06-26 21:08:54 +0000",
       "cold_river": "2025-06-25 18:47:43 +0000",
+      "pumpkin_fields": "2025-06-26 21:40:26 +0000",
       "old_growth_bayou": "2025-06-25 18:25:20 +0000",
       "gravel_beach": "2025-06-26 01:57:23 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:56 +0000",
@@ -5349,6 +5356,8 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-06-26 21:16:59 +0000",
+      "shrubland": "2025-06-26 21:40:10 +0000",
+      "cold_deciduous_forest": "2025-06-26 21:46:04 +0000",
       "pine_taiga": "2025-06-25 18:09:46 +0000",
       "autumnal_maple_forest": "2025-06-25 18:47:49 +0000",
       "willow_forest": "2025-06-25 18:07:34 +0000",
@@ -5363,6 +5372,7 @@
       "towering_cliffs": "2025-06-25 18:23:49 +0000",
       "temperate_grove": "2025-06-26 21:08:54 +0000",
       "cold_river": "2025-06-25 18:47:43 +0000",
+      "pumpkin_fields": "2025-06-26 21:40:26 +0000",
       "old_growth_bayou": "2025-06-25 18:25:20 +0000",
       "gravel_beach": "2025-06-26 01:57:23 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:56 +0000",
@@ -12457,12 +12467,6 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-06-26 21:26:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 21:02:35 +0000"
@@ -12472,12 +12476,6 @@
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-06-26 21:02:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-06-26 21:03:55 +0000"
     },
     "done": true
   },
@@ -12493,21 +12491,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/drain": {
-    "criteria": {
-      "has_hopper": "2025-06-26 21:26:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-06-26 21:02:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-26 21:24:56 +0000"
     },
     "done": true
   },
@@ -12553,24 +12539,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/redstone/trapped_elder_chest": {
-    "criteria": {
-      "has_item": "2025-06-26 21:24:56 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-06-26 21:29:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-06-26 21:29:06 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_counter": {
     "criteria": {
       "has_acacia_counter": "2025-06-26 21:02:35 +0000"
@@ -12613,12 +12581,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/block_breaker": {
-    "criteria": {
-      "has_hopper": "2025-06-26 21:26:11 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-06-26 21:02:35 +0000"
@@ -12631,24 +12593,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/block_placer": {
-    "criteria": {
-      "has_hopper": "2025-06-26 21:26:11 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/redstone/trapped_juniper_chest": {
-    "criteria": {
-      "has_item": "2025-06-26 21:24:56 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crank": {
-    "criteria": {
-      "has_cobblestone_slab": "2025-06-26 21:10:14 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/acacia_wine_rack_small": {
     "criteria": {
       "has_acacia_planks": "2025-06-26 21:02:35 +0000"
@@ -12658,12 +12602,6 @@
   "decorative_blocks:recipes/decorative_blocks.general/acacia_support": {
     "criteria": {
       "has_plank": "2025-06-26 21:02:35 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/redstone/trapped_cypress_chest": {
-    "criteria": {
-      "has_item": "2025-06-26 21:24:56 +0000"
     },
     "done": true
   },
@@ -12709,15 +12647,243 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/food_press": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_hopper": "2025-06-26 21:26:11 +0000"
+      "tamed_animal": "2025-06-26 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-06-26 21:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-26 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-06-26 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-06-26 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-06-26 21:24:56 +0000"
     },
     "done": true
   },
   "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
     "criteria": {
       "has_item": "2025-06-26 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_placer": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-26 21:26:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-26 21:29:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-26 21:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-06-26 21:36:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-06-26 21:36:20 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-06-26 21:36:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:magma_land": "2025-06-26 21:58:18 +0000"
+    },
+    "done": false
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-06-26 21:58:14 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-06-26 22:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-26 21:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-26 21:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-26 21:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-06-26 21:57:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-26 21:58:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 21:50:55 +0000"
     },
     "done": true
   },
