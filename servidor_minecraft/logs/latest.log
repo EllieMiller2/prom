@@ -2756,3 +2756,9 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [20:29:38] [Server thread/INFO]: Tfu2 has made the advancement [Best Friends Forever]
 [20:34:19] [Server thread/INFO]: Villager class_1646['Rocco'/41671, l='ServerLevel[world]', x=-2034.70, y=62.00, z=2201.50] died, message: 'Rocco was shot by Chillager'
 [20:34:19] [Server thread/INFO]: Named entity class_1646['Rocco'/41671, l='ServerLevel[world]', x=-2034.70, y=62.00, z=2201.50] died: Rocco was shot by Chillager
+[20:37:57] [Worker-Main-17/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[20:37:57] [Worker-Main-17/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[20:38:40] [Server thread/INFO]: Villager class_1646['Willis'/45677, l='ServerLevel[world]', x=-2212.29, y=85.00, z=2247.70] died, message: 'Willis hit the ground too hard'
+[20:38:40] [Server thread/INFO]: Named entity class_1646['Willis'/45677, l='ServerLevel[world]', x=-2212.29, y=85.00, z=2247.70] died: Willis fell from a high place
+[20:42:09] [Server thread/INFO]: Villager class_1646['Brad'/44425, l='ServerLevel[world]', x=-2212.70, y=70.00, z=2243.84] died, message: 'Brad hit the ground too hard'
+[20:42:09] [Server thread/INFO]: Named entity class_1646['Brad'/44425, l='ServerLevel[world]', x=-2212.70, y=70.00, z=2243.84] died: Brad fell from a high place
