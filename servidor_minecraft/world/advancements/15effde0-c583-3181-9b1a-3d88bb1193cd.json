@@ -3196,6 +3196,7 @@
       "pine_taiga": "2025-06-25 04:26:02 +0000",
       "autumnal_maple_forest": "2025-06-26 02:02:17 +0000",
       "muddy_river": "2025-06-26 21:54:10 +0000",
+      "prismachasm": "2025-06-26 23:06:59 +0000",
       "ancient_delta": "2025-06-26 23:01:40 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
       "frozen_tundra": "2025-06-26 19:37:45 +0000",
@@ -12118,6 +12119,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/basalt_bricks_wall": {
     "criteria": {
       "has_basalt_bricks": "2025-06-26 22:29:31 +0000"
@@ -12175,6 +12182,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -12259,6 +12272,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/warped_support": {
     "criteria": {
       "has_plank": "2025-06-26 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -12490,6 +12509,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-26 23:05:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-06-26 22:44:27 +0000"
@@ -12547,6 +12584,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-26 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -12652,6 +12695,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
@@ -12661,6 +12710,12 @@
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2025-06-26 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -12802,6 +12857,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
@@ -12823,6 +12884,12 @@
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-26 23:08:17 +0000"
     },
     "done": true
   },
@@ -12934,6 +13001,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 22:59:30 +0000"
@@ -13006,6 +13079,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/radio": {
     "criteria": {
       "has_redstone": "2025-06-26 22:52:45 +0000"
@@ -13063,6 +13148,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-06-26 22:47:54 +0000",
+      "prismachasm": "2025-06-26 23:06:59 +0000",
       "scorching_caves": "2025-06-26 22:54:23 +0000",
       "ancient_delta": "2025-06-26 23:01:40 +0000"
     },
@@ -13107,6 +13193,12 @@
   "soulsweapons:recipes/combat/whirligig_sawblade": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -13212,6 +13304,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
     "criteria": {
       "has_ruby_gem": "2025-06-26 22:47:20 +0000"
@@ -13239,6 +13337,12 @@
   "handcrafted:recipes/misc/warped_side_table": {
     "criteria": {
       "has_warped_side_table": "2025-06-26 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -13350,6 +13454,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/warped_window": {
     "criteria": {
       "has_ingredient": "2025-06-26 22:44:27 +0000"
@@ -13416,6 +13526,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -13431,6 +13547,12 @@
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-26 23:05:05 +0000"
     },
     "done": true
   },
@@ -13464,9 +13586,21 @@
     },
     "done": true
   },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-06-26 23:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -13527,6 +13661,12 @@
   "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
     "criteria": {
       "has_log": "2025-06-26 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },
@@ -13698,6 +13838,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-06-26 21:54:20 +0000"
@@ -13815,6 +13961,12 @@
   "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-26 22:30:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-26 23:13:35 +0000"
     },
     "done": true
   },

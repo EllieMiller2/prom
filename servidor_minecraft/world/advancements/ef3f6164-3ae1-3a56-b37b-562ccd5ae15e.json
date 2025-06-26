@@ -12901,6 +12901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2025-06-26 21:58:14 +0000"
@@ -12925,15 +12931,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
     "criteria": {
       "has_ruby_gem": "2025-06-26 22:49:24 +0000"
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
     "criteria": {
       "has_ruby_gem": "2025-06-26 22:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -12961,6 +12991,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/stone_witch_altar": {
     "criteria": {
       "has_item": "2025-06-26 22:36:57 +0000"
@@ -12973,9 +13009,21 @@
     },
     "done": true
   },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13027,6 +13075,12 @@
     },
     "done": true
   },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
     "criteria": {
       "has_ruby_gem": "2025-06-26 22:49:24 +0000"
@@ -13075,6 +13129,12 @@
     },
     "done": true
   },
+  "simplyswords:stormbringer": {
+    "criteria": {
+      "requirement": "2025-06-26 23:14:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 22:36:57 +0000"
@@ -13096,6 +13156,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2025-06-26 22:36:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13201,9 +13267,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13216,6 +13294,12 @@
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-06-26 22:36:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13234,6 +13318,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13315,6 +13405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:19 +0000"
@@ -13324,6 +13420,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13363,6 +13465,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-06-26 23:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
@@ -13396,6 +13504,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13459,9 +13573,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-26 23:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13477,6 +13609,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
@@ -13486,6 +13624,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13504,6 +13648,12 @@
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13555,6 +13705,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-26 22:36:57 +0000"
@@ -13597,6 +13753,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-26 23:07:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
@@ -13636,6 +13798,12 @@
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_bone_block": "2025-06-26 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13684,6 +13852,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13909,6 +14083,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 23:00:42 +0000"
@@ -13924,6 +14104,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-06-26 22:36:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },
@@ -13975,9 +14167,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-06-26 23:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 22:36:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-06-26 23:06:35 +0000"
     },
     "done": true
   },

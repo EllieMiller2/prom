@@ -2774,3 +2774,17 @@ BCLib - Nether BiomeSource (19b3d91f)
 [23:08:08] [Server thread/INFO]: Named entity class_1646['Jennette'/35646, l='ServerLevel[world]', x=1160.98, y=240.00, z=1139.59] died: Jennette fell from a high place
 [23:08:17] [Server thread/INFO]: Tfu2 has made the advancement [The Secrets of Enchanting]
 [23:08:21] [Server thread/WARN]: Tfu2 moved wrongly!
+[23:10:00] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[23:10:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:11:17] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[23:11:17] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:13:11] [Server thread/INFO]: Tfu2 was shot by Skeleton
+[23:13:11] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-23.13.11.dat
+[23:13:12] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[23:13:21] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1207, -18, 1124, minecraft:overworld
+[23:13:31] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:14:27] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Bringer of Storms]
+[23:15:21] [Server thread/INFO]: Tfu2 has made the advancement [When in Rome]
+[23:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind

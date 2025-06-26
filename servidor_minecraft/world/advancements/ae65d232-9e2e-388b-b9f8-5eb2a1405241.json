@@ -563,6 +563,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-26 23:09:19 +0000",
       "sweet_berries": "2025-06-25 04:15:28 +0000",
       "cooked_beef": "2025-06-26 01:11:17 +0000",
       "pumpkin_pie": "2025-06-26 01:16:23 +0000",
@@ -11660,6 +11661,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-06-26 23:10:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-06-26 22:44:05 +0000"
@@ -11735,6 +11742,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_button": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
     },
     "done": true
   },
@@ -11882,6 +11895,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_blackwood": {
+    "criteria": {
+      "has_item": "2025-06-26 23:07:06 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2025-06-26 22:04:23 +0000"
@@ -11921,6 +11940,12 @@
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_slab": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
     },
     "done": true
   },
@@ -12254,6 +12279,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/blackwood_trapdoor": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
@@ -12338,6 +12369,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
+    "criteria": {
+      "has_spruce_stairs": "2025-06-26 23:10:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_counter": {
     "criteria": {
       "has_acacia_counter": "2025-06-26 22:44:05 +0000"
@@ -12377,6 +12414,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_door": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
     },
     "done": true
   },
@@ -12944,6 +12987,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_sign": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-26 22:44:07 +0000"
@@ -13058,6 +13107,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_fence": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-06-26 21:58:00 +0000"
@@ -13103,6 +13158,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-06-26 23:10:47 +0000"
     },
     "done": true
   },
@@ -13250,6 +13311,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blackwood_stairs": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:23 +0000"
@@ -13280,9 +13347,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/blackwood_pressure_plate": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_acacia_nightstand": "2025-06-26 22:44:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_fence_gate": {
+    "criteria": {
+      "has_blackwood_planks": "2025-06-26 23:07:06 +0000"
     },
     "done": true
   },
