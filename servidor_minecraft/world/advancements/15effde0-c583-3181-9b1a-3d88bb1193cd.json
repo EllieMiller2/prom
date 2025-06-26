@@ -3197,7 +3197,9 @@
       "muddy_river": "2025-06-26 21:54:10 +0000",
       "willow_forest": "2025-06-25 04:23:07 +0000",
       "frozen_tundra": "2025-06-26 19:37:45 +0000",
+      "redstone_caves": "2025-06-26 22:47:54 +0000",
       "grassy_beach": "2025-06-26 21:09:26 +0000",
+      "scorching_caves": "2025-06-26 22:54:23 +0000",
       "rocky_meadow": "2025-06-25 04:09:02 +0000",
       "blackwood_taiga": "2025-06-26 21:54:26 +0000",
       "flower_fields": "2025-06-26 19:58:34 +0000",
@@ -7524,10 +7526,11 @@
   },
   "techreborn:root": {
     "criteria": {
+      "crit_2": "2025-06-26 22:47:13 +0000",
       "crit_1": "2025-06-25 04:45:37 +0000",
       "crit_0": "2025-06-25 04:44:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
     "criteria": {
@@ -12081,6 +12084,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:magma_land": "2025-06-26 21:58:45 +0000"
@@ -12102,6 +12111,12 @@
   "betternether:recipes/decorations/basalt_bricks_wall": {
     "criteria": {
       "has_basalt_bricks": "2025-06-26 22:29:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-06-26 22:52:27 +0000"
     },
     "done": true
   },
@@ -12159,15 +12174,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-26 22:44:27 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2025-06-26 22:23:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -12210,6 +12255,12 @@
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_lantern": {
+    "criteria": {
+      "has_andesite_slab": "2025-06-26 22:46:08 +0000"
     },
     "done": true
   },
@@ -12291,6 +12342,30 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2025-06-26 22:47:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_chair": {
     "criteria": {
       "has_warped_chair": "2025-06-26 22:44:27 +0000"
@@ -12315,9 +12390,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-06-26 22:29:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -12339,6 +12426,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-06-26 22:44:27 +0000"
@@ -12354,6 +12447,18 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -12375,6 +12480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-26 22:52:27 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12384,6 +12495,12 @@
   "prominent:level_10": {
     "criteria": {
       "requirement": "2025-06-26 22:03:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -12441,6 +12558,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/basalt_furnace": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12453,9 +12576,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/cyan_coffin": {
+    "criteria": {
+      "has_item": "2025-06-26 22:45:08 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2025-06-26 22:52:27 +0000"
     },
     "done": true
   },
@@ -12513,6 +12648,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/basalt_blocks/polished_basalt_bricks": {
     "criteria": {
       "has_item": "2025-06-26 22:29:29 +0000"
@@ -12549,6 +12690,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonlight_shortsword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:08 +0000"
@@ -12579,6 +12726,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
+    "criteria": {
+      "has_spruce_stairs": "2025-06-26 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-06-26 22:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-06-26 22:44:27 +0000"
@@ -12603,6 +12762,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
     "criteria": {
       "has_netherrack_stalactite": "2025-06-26 22:27:04 +0000"
@@ -12612,6 +12777,12 @@
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-06-26 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-06-26 22:46:10 +0000"
     },
     "done": true
   },
@@ -12687,9 +12858,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-26 22:53:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/radio": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -12723,15 +12906,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-26 22:53:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-06-26 22:52:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-06-26 22:47:54 +0000",
+      "scorching_caves": "2025-06-26 22:54:23 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -12789,9 +12997,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2025-06-26 22:47:13 +0000"
     },
     "done": true
   },
@@ -12849,6 +13075,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_warped": {
     "criteria": {
       "has_item": "2025-06-26 22:44:27 +0000"
@@ -12897,6 +13129,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_pillar_trim": {
     "criteria": {
       "has_warped_pillar_trim": "2025-06-26 22:44:27 +0000"
@@ -12921,6 +13165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12930,6 +13180,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-26 22:11:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
     },
     "done": true
   },
@@ -12963,9 +13219,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2025-06-26 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -12987,6 +13255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12999,11 +13273,29 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "betternether:nether_wood": {
     "criteria": {
       "got_warped": "2025-06-26 22:44:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
   },
   "betternether:recipes/building_blocks/basalt_basalt_slab": {
     "criteria": {
@@ -13029,15 +13321,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-26 22:53:07 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-06-26 21:58:43 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -13077,9 +13387,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-06-26 22:47:20 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_cupboard": {
     "criteria": {
       "has_warped_cupboard": "2025-06-26 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2025-06-26 22:52:27 +0000"
     },
     "done": true
   },
@@ -13092,6 +13414,12 @@
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_rail": {
+    "criteria": {
+      "has_copper_block": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -13118,6 +13446,12 @@
       "darkin_blade": "2025-06-26 22:04:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
   },
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
@@ -13149,6 +13483,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_pulsar": {
+    "criteria": {
+      "has_copper_block": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_boat": {
     "criteria": {
       "has_warped_planks": "2025-06-26 22:44:27 +0000"
@@ -13173,6 +13513,18 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2025-06-26 22:22:46 +0000"
@@ -13188,6 +13540,18 @@
   "stoneworks:recipes/building_blocks/basalt_paver_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-06-26 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_barometer": {
+    "criteria": {
+      "has_copper_block": "2025-06-26 22:52:45 +0000"
     },
     "done": true
   },
@@ -13224,6 +13588,12 @@
   "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-26 22:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-26 22:53:07 +0000"
     },
     "done": true
   },

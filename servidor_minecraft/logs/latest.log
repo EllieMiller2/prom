@@ -2743,3 +2743,21 @@ BCLib - Nether BiomeSource (19b3d91f)
 [22:40:51] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
 [22:47:13] [Server thread/INFO]: Tfu2 has made the advancement [Tech Reborn]
 [22:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[22:50:46] [Server thread/INFO]: Villager class_1646['Jada'/29919, l='ServerLevel[world]', x=1291.69, y=88.00, z=1399.55] died, message: 'Jada was shot by Illusioner'
+[22:50:46] [Server thread/INFO]: Named entity class_1646['Jada'/29919, l='ServerLevel[world]', x=1291.69, y=88.00, z=1399.55] died: Jada was shot by Illusioner
+[22:53:19] [Server thread/INFO]: <4ndyl1s3> gleaming ore
+[22:56:10] [Server thread/INFO]: 4ndyl1s3 was slain by Iron Golem
+[22:56:10] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.56.10.dat
+[22:56:13] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:56:26] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[22:56:35] [Server thread/INFO]: 4ndyl1s3 was slain by Iron Golem
+[22:56:37] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:56:38] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[22:56:47] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1290, 101, 1364, minecraft:overworld
+[22:58:09] [Server thread/INFO]: 4ndyl1s3 was shot by Illusioner
+[22:58:09] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.58.09.dat
+[22:58:11] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:58:20] [Server thread/INFO]: Villager class_1646['Ray'/29849, l='ServerLevel[world]', x=1271.78, y=83.00, z=1370.45] died, message: 'Ray was shot by Illusioner'
+[22:58:20] [Server thread/INFO]: Named entity class_1646['Ray'/29849, l='ServerLevel[world]', x=1271.78, y=83.00, z=1370.45] died: Ray was shot by Illusioner
+[22:58:26] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1280, 82, 1381, minecraft:overworld
+[22:58:27] [Server thread/INFO]: 4ndyl1s3 has made the advancement [World of illusion]
