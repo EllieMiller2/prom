@@ -526,6 +526,7 @@
       "minecraft:sunflower_plains": "2025-06-26 02:32:23 +0000",
       "minecraft:birch_forest": "2025-06-25 04:39:58 +0000",
       "minecraft:beach": "2025-06-26 19:40:40 +0000",
+      "minecraft:dark_forest": "2025-06-26 21:28:54 +0000",
       "minecraft:river": "2025-06-25 04:08:57 +0000",
       "minecraft:snowy_plains": "2025-06-26 18:53:07 +0000",
       "minecraft:stony_shore": "2025-06-26 21:08:16 +0000",
@@ -10657,6 +10658,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 21:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
@@ -10666,6 +10673,12 @@
   "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 21:26:21 +0000"
     },
     "done": true
   },
@@ -10774,6 +10787,12 @@
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/glowstone": "2025-06-26 21:26:21 +0000"
     },
     "done": true
   },
@@ -11083,6 +11102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 21:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-26 20:31:28 +0000"
@@ -11182,6 +11207,12 @@
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-06-26 18:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 21:26:21 +0000"
     },
     "done": true
   },
@@ -11335,6 +11366,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/glowstone": "2025-06-26 21:26:21 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-26 19:30:01 +0000"
@@ -11473,6 +11510,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-06-26 21:28:14 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-06-26 21:02:19 +0000"
@@ -11512,6 +11555,12 @@
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-06-26 20:23:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 21:26:21 +0000"
     },
     "done": true
   },
@@ -12006,6 +12055,12 @@
       "has_snowball": "2025-06-26 20:23:16 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-06-26 21:28:14 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

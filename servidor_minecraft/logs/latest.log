@@ -3067,3 +3067,100 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [21:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [21:26:14] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Local Brewery]
 [21:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:26:52] [Server thread/INFO]: [Handshake] Sending channel query
+[21:26:52] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:26:52] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:26:52] [Server thread/INFO]: Allend[/100.119.51.63:16824] logged in with entity id 90475 at (216.79048021374987, 63.0, 1349.7170071244477)
+[21:26:52] [Server thread/INFO]: Sending server config values to client
+[21:26:52] [Server thread/INFO]: Syncing config to Allend (ae65d232-9e2e-388b-b9f8-5eb2a1405241)
+[21:26:52] [Server thread/INFO]: Loading config from file...
+[21:26:53] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[21:26:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:26:53] [Server thread/INFO]: Allend joined the game
+[21:26:53] [Server thread/INFO]: [Sortilege] Loading Configs for Sortilege
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enchant_catalyst, activation_chance]", defaulting to 0.5
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enchant_catalyst, override_default_enchanting]", defaulting to false
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, enable]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, effect_blacklist]", defaulting to []
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, stack_size]", defaulting to 16
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, immunity_time]", defaulting to 300
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, stack_size]", defaulting to 8
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, duration_multiplier]", defaulting to 1.5
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, drinking_time]", defaulting to 20
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, cooldown]", defaulting to 200
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, enable]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, blaze_powder_refill]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, fill_swamp_huts_randomly]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, swamp_hut_blacklist]", defaulting to []
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, lapis_shield, enable]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, lapis_shield, durability]", defaulting to 152
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, lapis_shield, cooldown]", defaulting to 80
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, max_overcharge]", defaulting to 20
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, bar_color]", defaulting to #0000ff
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, free_durability]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, free_experience]", defaulting to true
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, ingredients]", defaulting to {}
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, default_xp_cost]", defaulting to 0
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, default_charge_time]", defaulting to 1
+[21:26:53] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, entries]", defaulting to []
+[21:26:53] [Server thread/WARN]: [Sortilege] Your Sortilege configs are outdated! Consider deleting them so they can refresh
+[21:26:53] [Server thread/INFO]: PLAYER_JOIN
+[21:26:53] [Server thread/INFO]: add_player wand
+[21:26:53] [Server thread/INFO]: config sent
+[21:26:53] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[21:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5525ms or 110 ticks behind
+[21:26:56] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:27:00] [Netty Epoll Server IO #3/INFO]: Channel update: Allend -> default
+[21:27:00] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Allend. Claiming: GRAVE / Robbing: INVENTORY
+[21:27:11] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[21:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6496ms or 129 ticks behind
+[21:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7448ms or 148 ticks behind
+[21:27:53] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.28429789164670183
+[21:27:53] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.4419439060552577
+[21:27:53] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.508125899668812
+[21:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6419ms or 128 ticks behind
+[21:28:15] [Server thread/INFO]: Villager class_1646['Shizue'/88754, l='ServerLevel[world]', x=1206.82, y=64.00, z=1193.60] died, message: 'Shizue hit the ground too hard'
+[21:28:15] [Server thread/INFO]: Named entity class_1646['Shizue'/88754, l='ServerLevel[world]', x=1206.82, y=64.00, z=1193.60] died: Shizue fell from a high place
+[21:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6692ms or 133 ticks behind
+[21:28:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7666ms or 153 ticks behind
+[21:29:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7270ms or 145 ticks behind
+[21:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5607ms or 112 ticks behind
+[21:29:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5249ms or 104 ticks behind
+[21:29:55] [Server thread/INFO]: <Allend> cryomarble
+[21:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5346ms or 106 ticks behind
+[21:30:11] [Server thread/INFO]: [Allend: Teleported Allend to -1082.500000, 237.500000, 1117.500000]
+[21:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5655ms or 113 ticks behind
+[21:30:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5986ms or 119 ticks behind
+[21:31:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4919ms or 98 ticks behind
+[21:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
+[21:31:36] [Server thread/INFO]: 4ndyl1s3 fell from a high place
+[21:31:36] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-21.31.36.dat
+[21:31:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[21:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4211ms or 84 ticks behind
+[21:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4598ms or 91 ticks behind
+[21:32:29] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=388, y=-8, z=-76}
+[21:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6439ms or 128 ticks behind
+[21:32:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5892ms or 117 ticks behind
+[21:33:02] [Server thread/INFO]: [Allend: Teleported Allend to 148.500000, 76.500000, 1324.500000]
+[21:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[21:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[21:33:30] [Server thread/INFO]: [Allend: Teleported Allend to -1063.500000, 250.500000, 1130.500000]
+[21:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[21:34:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[21:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
+[21:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3219ms or 64 ticks behind
+[21:34:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3912ms or 78 ticks behind
+[21:35:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3598ms or 71 ticks behind
+[21:35:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
+[21:35:37] [Server thread/INFO]: Villager class_1646['Elvin'/98452, l='ServerLevel[world]', x=815.74, y=65.00, z=266.95] died, message: 'Elvin was slain by Zombie'
+[21:35:37] [Server thread/INFO]: Named entity class_1646['Elvin'/98452, l='ServerLevel[world]', x=815.74, y=65.00, z=266.95] died: Elvin was slain by Zombie
+[21:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4043ms or 80 ticks behind
+[21:36:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3479ms or 69 ticks behind
+[21:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6607ms or 132 ticks behind
+[21:36:52] [Server thread/INFO]: Villager class_1646['Kurtis'/98484, l='ServerLevel[world]', x=862.70, y=70.06, z=292.51] died, message: 'Kurtis was slain by Zombie'
+[21:36:52] [Server thread/INFO]: Named entity class_1646['Kurtis'/98484, l='ServerLevel[world]', x=862.70, y=70.06, z=292.51] died: Kurtis was slain by Zombie
+[21:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7160ms or 143 ticks behind

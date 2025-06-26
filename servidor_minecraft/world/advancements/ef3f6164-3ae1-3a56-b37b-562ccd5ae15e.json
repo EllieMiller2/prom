@@ -12457,6 +12457,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-26 21:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 21:02:35 +0000"
@@ -12484,6 +12490,12 @@
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-06-26 21:02:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
     },
     "done": true
   },
@@ -12547,6 +12559,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-26 21:29:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-26 21:29:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_counter": {
     "criteria": {
       "has_acacia_counter": "2025-06-26 21:02:35 +0000"
@@ -12589,6 +12613,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-06-26 21:02:35 +0000"
@@ -12598,6 +12628,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-26 21:02:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_placer": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
     },
     "done": true
   },
@@ -12670,6 +12706,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-26 21:02:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-06-26 21:26:11 +0000"
     },
     "done": true
   },
