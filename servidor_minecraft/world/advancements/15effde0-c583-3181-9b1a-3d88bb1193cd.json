@@ -3249,6 +3249,7 @@
       "minecraft:pillager": "2025-06-26 02:23:23 +0000",
       "minecraft:skeleton": "2025-06-26 01:34:51 +0000",
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
+      "minecraft:zombified_piglin": "2025-06-26 22:17:14 +0000",
       "minecraft:stray": "2025-06-26 20:22:06 +0000",
       "minecraft:zombie": "2025-06-25 04:09:14 +0000",
       "minecraft:drowned": "2025-06-26 20:10:59 +0000"
@@ -12090,9 +12091,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:01:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12114,9 +12133,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-06-26 22:23:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-06-26 22:23:14 +0000"
     },
     "done": true
   },
@@ -12129,6 +12160,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12162,6 +12199,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12192,6 +12235,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12201,6 +12256,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12240,6 +12301,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:01:40 +0000"
@@ -12270,6 +12337,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12288,6 +12367,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
@@ -12297,6 +12382,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:01:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12330,6 +12421,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-26 22:01:19 +0000"
@@ -12339,6 +12436,12 @@
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12426,9 +12529,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12468,6 +12583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2025-06-26 22:04:08 +0000"
@@ -12489,6 +12610,18 @@
   "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12612,9 +12745,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-06-26 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12624,9 +12769,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12639,6 +12796,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-06-26 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },
@@ -12678,6 +12841,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-06-26 21:54:20 +0000"
@@ -12687,6 +12856,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-26 22:01:19 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-06-26 22:22:46 +0000"
     },
     "done": true
   },
@@ -12711,6 +12886,18 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:01:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:44 +0000"
     },
     "done": true
   },

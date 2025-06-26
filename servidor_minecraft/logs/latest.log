@@ -2574,3 +2574,145 @@ BCLib - Nether BiomeSource (19b3d91f)
 [22:18:05] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.18.05.dat
 [22:18:07] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
 [22:18:21] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 132, 21, 84, minecraft:the_nether
+[22:18:36] [Server thread/INFO]: 4ndyl1s3 was slain by Nether Gauntlet
+[22:18:36] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.18.36.dat
+[22:18:38] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:18:42] [Server thread/INFO]: 4ndyl1s3 fell from a high place
+[22:18:42] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:18:42] [Server thread/INFO]: Allend was blown up by Nether Gauntlet
+[22:18:42] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.18.42.dat
+[22:18:43] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:18:43] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:19:01] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 130, 16, 71, minecraft:the_nether
+[22:19:03] [Server thread/INFO]: Allend was slain by Nether Gauntlet
+[22:19:03] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.19.03.dat
+[22:19:04] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:19:07] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 123, 21, 72, minecraft:the_nether
+[22:19:09] [Server thread/INFO]: 4ndyl1s3 was slain by Nether Gauntlet
+[22:19:09] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.19.09.dat
+[22:19:11] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:19:20] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 141, 18, 76, minecraft:the_nether
+[22:19:23] [Server thread/INFO]: Allend was slain by Nether Gauntlet
+[22:19:23] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.19.23.dat
+[22:19:24] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 120, 24, 76, minecraft:the_nether
+[22:19:24] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:19:41] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 145, 19, 67, minecraft:the_nether
+[22:19:45] [Server thread/INFO]: 4ndyl1s3 was slain by Nether Gauntlet
+[22:19:45] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.19.45.dat
+[22:19:46] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:19:49] [Server thread/INFO]: 4ndyl1s3 fell from a high place
+[22:19:49] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:19:50] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:19:55] [Server thread/INFO]: Allend was slain by Nether Gauntlet
+[22:19:55] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.19.55.dat
+[22:19:57] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:20:09] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 136, 16, 67, minecraft:the_nether
+[22:20:09] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 123, 18, 63, minecraft:the_nether
+[22:20:21] [Server thread/INFO]: Allend was slain by Nether Gauntlet
+[22:20:21] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.20.21.dat
+[22:20:23] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:20:27] [Server thread/INFO]: Allend fell from a high place
+[22:20:27] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:20:30] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:20:40] [Server thread/INFO]: Tfu2 was blown up by Nether Gauntlet
+[22:20:40] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:20:41] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 131, 17, 64, minecraft:the_nether
+[22:20:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:20:46] [Server thread/INFO]: Tfu2 fell from a high place
+[22:20:46] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:20:47] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:20:49] [Server thread/INFO]: 4ndyl1s3 walked into fire whilst fighting Nether Gauntlet
+[22:20:49] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.20.49.dat
+[22:20:50] [Server thread/INFO]: Tfu2 fell from a high place
+[22:20:50] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:20:51] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:20:52] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:20:59] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 145, 18, 64, minecraft:the_nether
+[22:21:00] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 133, 13, 67, minecraft:the_nether
+[22:21:06] [Server thread/INFO]: Allend was slain by Nether Gauntlet
+[22:21:06] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.21.06.dat
+[22:21:07] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:21:12] [Server thread/INFO]: 4ndyl1s3 was blown up by Nether Gauntlet
+[22:21:12] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.21.12.dat
+[22:21:14] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:21:19] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 136, 16, 66, minecraft:the_nether
+[22:21:29] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 137, 20, 63, minecraft:the_nether
+[22:21:36] [Server thread/INFO]: Tfu2 was slain by Nether Gauntlet
+[22:21:36] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-22.21.36.dat
+[22:21:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:21:42] [Server thread/INFO]: 4ndyl1s3 was slain by Nether Gauntlet
+[22:21:42] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.21.42.dat
+[22:21:44] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:21:45] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 141, 18, 70, minecraft:the_nether
+[22:22:05] [Server thread/INFO]: Tfu2 was blown up by Nether Gauntlet
+[22:22:05] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-22.22.05.dat
+[22:22:07] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:22:11] [Server thread/INFO]: Allend was slain by Nether Gauntlet
+[22:22:11] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.22.11.dat
+[22:22:11] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22:22:11] [Netty Epoll Server IO #4/ERROR]: Combo count: 5 is dual wielding: false
+[22:22:11] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[22:22:11] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[22:22:11] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 0 | client: 0
+[22:22:13] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:22:16] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 139, 13, 67, minecraft:the_nether
+[22:22:18] [Server thread/INFO]: Tfu2 was blown up by Nether Gauntlet
+[22:22:18] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-22.22.18.dat
+[22:22:18] [Netty Epoll Server IO #7/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22:22:18] [Netty Epoll Server IO #7/ERROR]: Combo count: 0 is dual wielding: false
+[22:22:18] [Netty Epoll Server IO #7/ERROR]: Main-hand stack: 0 air
+[22:22:18] [Netty Epoll Server IO #7/ERROR]: Off-hand stack: 0 air
+[22:22:18] [Netty Epoll Server IO #7/ERROR]: Selected slot server: 0 | client: 0
+[22:22:19] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:22:22] [Server thread/INFO]: Tfu2 fell from a high place
+[22:22:22] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:22:23] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 136, 15, 67, minecraft:the_nether
+[22:22:24] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:22:25] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 144, 19, 76, minecraft:the_nether
+[22:22:25] [Server thread/INFO]: 4ndyl1s3 was blown up by Nether Gauntlet
+[22:22:25] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.22.25.dat
+[22:22:27] [Server thread/INFO]: Tfu2 fell from a high place
+[22:22:27] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:22:27] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:22:29] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:22:37] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 143, 20, 78, minecraft:the_nether
+[22:22:38] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 140, 14, 68, minecraft:the_nether
+[22:22:39] [Server thread/INFO]: Allend was blown up by Nether Gauntlet
+[22:22:39] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_26.06.2025-22.22.39.dat
+[22:22:40] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[22:22:44] [Server thread/INFO]: 4ndyl1s3 was slain by Nether Gauntlet
+[22:22:44] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_26.06.2025-22.22.44.dat
+[22:22:46] [Server thread/INFO]: Tfu2 has made the advancement [Through the Gauntlet]
+[22:22:46] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[22:22:46] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[22:22:46] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[22:22:47] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:22:48] [Server thread/INFO]: Tfu2 blew up
+[22:22:48] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-22.22.48.dat
+[22:22:49] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:22:53] [Server thread/INFO]: Tfu2 fell from a high place
+[22:22:53] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:22:53] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 128, 12, 73, minecraft:the_nether
+[22:22:55] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:22:57] [Server thread/INFO]: Tfu2 fell from a high place
+[22:22:57] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:22:59] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:23:00] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 129, 10, 73, minecraft:the_nether
+[22:23:03] [Server thread/INFO]: Tfu2 fell from a high place
+[22:23:03] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:23:05] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:23:06] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[22:23:09] [Server thread/ERROR]: Grave could not be replaced at X: 129, Y: 10, Z: 69 / minecraft:the_nether
+[22:23:09] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 129, 10, 69, minecraft:the_nether
+[22:23:23] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Hidden in the Depths]
+[22:26:23] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 1.8834555707417169
+[22:26:27] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/23926, l='ServerLevel[world]', x=-84.00, y=31.00, z=252.00] as it would cause deadlock
+[22:26:27] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/23930, l='ServerLevel[world]', x=-84.00, y=31.00, z=252.00] as it would cause deadlock
+[22:27:45] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.31277503288049857
+[22:27:45] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.8989865418255327
+[22:27:45] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 1.4249289736519444
+[22:27:45] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.3871603663098533
+[22:27:45] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.38003835384365203
+[22:28:07] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[22:28:27] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[22:28:36] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]

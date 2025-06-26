@@ -11575,6 +11575,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-06-26 22:00:24 +0000"
@@ -11593,9 +11599,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:09:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -11614,6 +11632,12 @@
   "soulsweapons:recipes/combat/dark_moon_greatsword": {
     "criteria": {
       "has_item": "2025-06-26 22:04:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-06-26 22:23:24 +0000"
     },
     "done": true
   },
@@ -11641,6 +11665,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-06-26 22:23:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
@@ -11662,6 +11692,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -11695,6 +11731,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
@@ -11725,9 +11767,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_soil": "2025-06-26 22:18:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -11752,6 +11812,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -11797,9 +11863,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-26 22:18:19 +0000"
     },
     "done": true
   },
@@ -11839,6 +11917,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2025-06-26 22:04:23 +0000"
@@ -11869,6 +11959,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
@@ -11890,6 +11986,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -11923,9 +12025,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -12061,9 +12175,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-06-26 22:04:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -12109,6 +12235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
@@ -12136,6 +12268,18 @@
   "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -12235,6 +12379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-26 22:18:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2025-06-26 22:09:14 +0000"
@@ -12331,6 +12481,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-06-26 21:58:00 +0000"
@@ -12343,15 +12499,33 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tile_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -12364,6 +12538,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-06-26 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -12406,6 +12586,12 @@
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-26 22:04:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
     },
     "done": true
   },
@@ -12466,6 +12652,24 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-26 22:09:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-06-26 22:18:19 +0000"
     },
     "done": true
   },
