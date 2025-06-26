@@ -521,6 +521,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-26 21:26:02 +0000",
+      "minecraft:taiga": "2025-06-26 23:49:36 +0000",
       "minecraft:frozen_river": "2025-06-26 19:31:13 +0000",
       "minecraft:cherry_grove": "2025-06-25 03:57:23 +0000",
       "minecraft:sunflower_plains": "2025-06-26 02:32:23 +0000",

@@ -2823,3 +2823,70 @@ BCLib - Nether BiomeSource (19b3d91f)
 [23:29:37] [Netty Epoll Server IO #1/ERROR]: Selected slot server: 0 | client: 0
 [23:29:38] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
 [23:29:47] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:31:01] [Server thread/INFO]: 4ndyl1s3 lost connection: Disconnected
+[23:31:01] [Server thread/INFO]: 4ndyl1s3 left the game
+[23:31:01] [Server thread/INFO]: remove player wand
+[23:31:01] [Server thread/INFO]: Updating all forceload tickets for ef3f6164-3ae1-3a56-b37b-562ccd5ae15e
+[23:31:03] [Server thread/INFO]: [Handshake] Sending channel query
+[23:31:03] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[23:31:03] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[23:31:04] [Server thread/INFO]: 4ndyl1s3[/100.73.61.31:59337] logged in with entity id 58428 at (3079.5329419173704, 42.0, 11.624438416452202)
+[23:31:04] [Server thread/INFO]: Sending server config values to client
+[23:31:04] [Server thread/INFO]: Syncing config to 4ndyl1s3 (ef3f6164-3ae1-3a56-b37b-562ccd5ae15e)
+[23:31:04] [Server thread/INFO]: Loading config from file...
+[23:31:04] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[23:31:04] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:31:04] [Server thread/INFO]: 4ndyl1s3 joined the game
+[23:31:04] [Server thread/INFO]: [Sortilege] Loading Configs for Sortilege
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enchant_catalyst, activation_chance]", defaulting to 0.5
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enchant_catalyst, override_default_enchanting]", defaulting to false
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, enable]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, effect_blacklist]", defaulting to []
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, stack_size]", defaulting to 16
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, antidote, immunity_time]", defaulting to 300
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, stack_size]", defaulting to 8
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, duration_multiplier]", defaulting to 1.5
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, drinking_time]", defaulting to 20
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, potion, cooldown]", defaulting to 200
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, enable]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, blaze_powder_refill]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, fill_swamp_huts_randomly]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[brewing, cauldron, swamp_hut_blacklist]", defaulting to []
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, lapis_shield, enable]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, lapis_shield, durability]", defaulting to 152
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, lapis_shield, cooldown]", defaulting to 80
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, max_overcharge]", defaulting to 20
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, bar_color]", defaulting to #0000ff
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, free_durability]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, free_experience]", defaulting to true
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, overcharge, ingredients]", defaulting to {}
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, default_xp_cost]", defaulting to 0
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, default_charge_time]", defaulting to 1
+[23:31:04] [Server thread/WARN]: [Sortilege] Couldn't find config value for path : "[equipment, staffs, entries]", defaulting to []
+[23:31:04] [Server thread/WARN]: [Sortilege] Your Sortilege configs are outdated! Consider deleting them so they can refresh
+[23:31:04] [Server thread/INFO]: Updating all forceload tickets for ef3f6164-3ae1-3a56-b37b-562ccd5ae15e
+[23:31:04] [Server thread/INFO]: PLAYER_JOIN
+[23:31:04] [Server thread/INFO]: add_player wand
+[23:31:04] [Server thread/INFO]: config sent
+[23:31:06] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[23:31:06] [Netty Epoll Server IO #3/INFO]: Channel update: 4ndyl1s3 -> default
+[23:31:06] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player 4ndyl1s3. Claiming: GRAVE / Robbing: INVENTORY
+[23:31:09] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:32:11] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 3081, 24, -6, minecells:prison
+[23:40:57] [Server thread/INFO]: Villager class_1646['Tresa'/29450, l='ServerLevel[world]', x=1269.10, y=102.00, z=1341.31] died, message: 'Tresa was slain by Zombie'
+[23:40:57] [Server thread/INFO]: Named entity class_1646['Tresa'/29450, l='ServerLevel[world]', x=1269.10, y=102.00, z=1341.31] died: Tresa was slain by Zombie
+[23:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23:49:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
+[23:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
+[23:49:27] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Spore Galore]
+[23:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[23:49:46] [Server thread/INFO]: Tfu2 was shot by Skeleton
+[23:49:46] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_26.06.2025-23.49.46.dat
+[23:49:48] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[23:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:50:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
