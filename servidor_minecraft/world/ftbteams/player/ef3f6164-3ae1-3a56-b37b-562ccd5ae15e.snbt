@@ -2,9 +2,7 @@
 	id: "ef3f6164-3ae1-3a56-b37b-562ccd5ae15e"
 	type: "player"
 	player_name: "4ndyl1s3"
-	ranks: {
-		ef3f6164-3ae1-3a56-b37b-562ccd5ae15e: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "4ndyl1s3"
 		"ftbteams:description": ""

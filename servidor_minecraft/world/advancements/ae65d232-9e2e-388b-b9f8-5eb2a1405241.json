@@ -284,7 +284,9 @@
       "minecraft:cherry_grove": "2025-06-25 03:57:23 +0000",
       "minecraft:birch_forest": "2025-06-25 04:39:54 +0000",
       "minecraft:river": "2025-06-25 04:09:05 +0000",
+      "minecraft:cold_ocean": "2025-06-26 01:45:50 +0000",
       "minecraft:forest": "2025-06-25 04:23:53 +0000",
+      "minecraft:frozen_ocean": "2025-06-26 02:05:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 04:26:30 +0000",
       "minecraft:meadow": "2025-06-25 04:22:42 +0000",
       "minecraft:plains": "2025-06-25 04:08:49 +0000"
@@ -557,6 +559,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-06-25 04:15:28 +0000",
+      "cooked_beef": "2025-06-26 01:11:17 +0000",
+      "pumpkin_pie": "2025-06-26 01:16:23 +0000",
       "mutton": "2025-06-25 05:29:16 +0000",
       "bread": "2025-06-25 04:04:34 +0000"
     },
@@ -2804,7 +2808,10 @@
     "criteria": {
       "pine_taiga": "2025-06-25 04:26:10 +0000",
       "willow_forest": "2025-06-25 04:23:50 +0000",
+      "frozen_tundra": "2025-06-26 02:05:55 +0000",
       "rocky_meadow": "2025-06-25 04:09:07 +0000",
+      "maple_forest": "2025-06-26 02:05:49 +0000",
+      "gravel_beach": "2025-06-26 02:04:30 +0000",
       "lupine_plains": "2025-06-25 04:26:24 +0000"
     },
     "done": false
@@ -2813,7 +2820,10 @@
     "criteria": {
       "pine_taiga": "2025-06-25 04:26:10 +0000",
       "willow_forest": "2025-06-25 04:23:50 +0000",
+      "frozen_tundra": "2025-06-26 02:05:55 +0000",
       "rocky_meadow": "2025-06-25 04:09:07 +0000",
+      "maple_forest": "2025-06-26 02:05:49 +0000",
+      "gravel_beach": "2025-06-26 02:04:30 +0000",
       "lupine_plains": "2025-06-25 04:26:24 +0000"
     },
     "done": false
@@ -7769,7 +7779,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-25 04:40:29 +0000",
+      "minecraft:spider": "2025-06-26 02:10:12 +0000",
       "minecraft:creeper": "2025-06-25 04:51:14 +0000",
+      "minecraft:cave_spider": "2025-06-26 02:11:19 +0000",
       "minecraft:zombie": "2025-06-25 04:37:52 +0000"
     },
     "done": false
@@ -9568,15 +9580,45 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-25 05:38:49 +0000"
+    },
+    "done": true
+  },
   "minecells:promenade": {
     "criteria": {
       "requirement": "2025-06-25 05:40:55 +0000"
     },
     "done": true
   },
-  "minecells:unlock/kill_30_leaping_zombies": {
+  "minecells:unlock/run_in_the_promenade": {
     "criteria": {
-      "leaping_zombies_killed": "2025-06-25 05:57:25 +0000"
+      "run": "2025-06-25 05:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-06-25 05:42:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-06-25 05:42:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-06-25 05:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-06-25 05:45:18 +0000"
     },
     "done": true
   },
@@ -9598,45 +9640,1672 @@
     },
     "done": true
   },
-  "minecells:book/mobs/protector": {
-    "criteria": {
-      "requirement": "2025-06-25 05:45:18 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/mutated_bat": {
-    "criteria": {
-      "requirement": "2025-06-25 05:42:25 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-06-25 05:38:49 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
-    "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-06-25 05:42:46 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/run_in_the_promenade": {
-    "criteria": {
-      "run": "2025-06-25 05:41:21 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
-    "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-06-25 05:42:46 +0000"
-    },
-    "done": true
-  },
   "minecells:elevator": {
     "criteria": {
       "entity_squashed": "2025-06-25 05:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-06-25 05:57:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-06-26 01:11:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/stone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-26 01:32:40 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
+    "criteria": {
+      "has_water_bucket": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-26 01:22:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-26 00:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-26 01:31:33 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/smoking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-06-26 01:19:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
+    "criteria": {
+      "has_oak_stairs": "2025-06-26 01:44:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-06-26 01:07:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-06-26 02:00:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-06-26 00:59:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2025-06-26 01:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-06-26 01:19:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-06-26 01:02:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/copper_tea_kettle": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/campfire_cooking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-06-26 01:19:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-06-26 02:00:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-06-26 01:44:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-06-26 02:00:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-26 02:09:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-06-26 01:02:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-06-26 01:45:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-06-26 01:19:09 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-06-26 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-06-26 01:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
+    "criteria": {
+      "has_copper": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-26 02:09:56 +0000",
+      "in_better_spider_dungeon": "2025-06-26 02:09:53 +0000"
+    },
+    "done": false
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-26 00:59:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
+    "criteria": {
+      "has_copper": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_apple": {
+    "criteria": {
+      "has_apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-26 02:00:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
+    "criteria": {
+      "has_plank": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-26 01:23:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-26 02:09:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_pan": {
+    "criteria": {
+      "has_copper_block": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/apple": {
+    "criteria": {
+      "has_apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
+    "criteria": {
+      "has_copper": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-26 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-26 01:19:09 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-06-26 01:29:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall": {
+    "criteria": {
+      "has_copper": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-26 01:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-26 00:59:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:25 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-26 01:31:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-06-26 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 01:20:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-06-26 01:29:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-26 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-06-26 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-26 01:54:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-26 01:22:30 +0000"
     },
     "done": true
   },

@@ -1,0 +1,25 @@
+{
+	id: "756e26ff-32f7-435e-b872-a8e1e2b6c7a4"
+	type: "party"
+	owner: "ae65d232-9e2e-388b-b9f8-5eb2a1405241"
+	ranks: {
+		15effde0-c583-3181-9b1a-3d88bb1193cd: "member"
+		ae65d232-9e2e-388b-b9f8-5eb2a1405241: "owner"
+		ef3f6164-3ae1-3a56-b37b-562ccd5ae15e: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "AEA"
+		"ftbteams:description": "no tengo sencillo hijito"
+		"ftbteams:color": "#6DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750899224445L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Allend\"}]}" }
+		{ from: "ae65d232-9e2e-388b-b9f8-5eb2a1405241", date: 1750899230137L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"4ndyl1s3\"}]}" }
+		{ from: "ae65d232-9e2e-388b-b9f8-5eb2a1405241", date: 1750899230137L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tfu2\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750899232132L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"4ndyl1s3\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750899234287L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tfu2\"}]}" }
+	]
+	extra: { }
+}
