@@ -3262,6 +3262,7 @@
       "minecraft:pillager": "2025-06-26 02:23:23 +0000",
       "minecraft:blaze": "2025-06-27 03:38:29 +0000",
       "minecraft:skeleton": "2025-06-26 01:34:51 +0000",
+      "minecraft:zoglin": "2025-06-27 04:00:57 +0000",
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
       "minecraft:piglin_brute": "2025-06-27 03:41:38 +0000",
       "minecraft:creeper": "2025-06-26 23:02:51 +0000",
@@ -15441,6 +15442,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-27 04:00:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
@@ -15888,6 +15895,12 @@
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-06-27 03:52:43 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-06-27 04:15:31 +0000"
     },
     "done": true
   },

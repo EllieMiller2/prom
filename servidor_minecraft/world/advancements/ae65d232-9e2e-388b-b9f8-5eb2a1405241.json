@@ -7807,6 +7807,7 @@
     "criteria": {
       "minecraft:blaze": "2025-06-27 03:37:28 +0000",
       "minecraft:skeleton": "2025-06-25 04:40:29 +0000",
+      "minecraft:zoglin": "2025-06-27 04:00:44 +0000",
       "minecraft:ghast": "2025-06-27 03:22:42 +0000",
       "minecraft:spider": "2025-06-26 02:10:12 +0000",
       "minecraft:piglin_brute": "2025-06-27 03:49:15 +0000",
@@ -14839,6 +14840,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-27 04:00:14 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-06-27 03:35:03 +0000"
@@ -14941,6 +14948,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-06-27 03:35:07 +0000"
@@ -14998,6 +15011,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
     },
     "done": true
   },
@@ -15079,6 +15098,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 03:19:30 +0000"
@@ -15133,6 +15158,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/sweeper": {
     "criteria": {
       "requirement": "2025-06-27 03:05:15 +0000"
@@ -15142,6 +15173,12 @@
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-06-27 03:35:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
     },
     "done": true
   },
@@ -15187,6 +15224,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-06-27 04:11:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_chestplate": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
@@ -15196,6 +15239,12 @@
   "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
       "has_red_mushroom": "2025-06-27 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
     },
     "done": true
   },
@@ -15271,6 +15320,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_encrusted_anchor": {
     "criteria": {
       "has_gold_block": "2025-06-27 03:35:07 +0000"
@@ -15292,6 +15347,12 @@
   "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
     "criteria": {
       "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-06-27 04:11:13 +0000"
     },
     "done": true
   },
@@ -15334,6 +15395,18 @@
   "minecells:book/mobs/buzzcutter": {
     "criteria": {
       "requirement": "2025-06-27 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-27 04:11:13 +0000"
     },
     "done": true
   },
@@ -15571,6 +15644,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-06-27 04:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
@@ -15586,6 +15665,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
     },
     "done": true
   },
@@ -15640,6 +15725,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
     "criteria": {
       "has_diamond_sword": "2025-06-27 03:38:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 04:11:13 +0000"
     },
     "done": true
   },
@@ -15856,6 +15947,12 @@
   "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
     "criteria": {
       "has_pyrite_dust": "2025-06-27 03:52:53 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-06-27 03:57:35 +0000"
     },
     "done": true
   },
