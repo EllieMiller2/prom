@@ -16329,6 +16329,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-27 17:46:59 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/gold_block": {
+    "criteria": {
+      "has_raw_gold_ore_block": "2025-06-27 17:47:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/silver_chestplate": {
     "criteria": {
       "has_silver_ingot": "2025-06-27 17:26:20 +0000"
@@ -16419,6 +16431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-27 17:47:00 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/magenta_coffin": {
     "criteria": {
       "has_item": "2025-06-27 17:17:01 +0000"
@@ -16434,6 +16452,12 @@
   "techreborn:recipes/extractor/slime_ball_from_sticky_piston": {
     "criteria": {
       "has_sticky_piston": "2025-06-27 17:43:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-27 17:46:59 +0000"
     },
     "done": true
   },
@@ -16455,6 +16479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-27 17:46:59 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/blue_coffin": {
     "criteria": {
       "has_item": "2025-06-27 17:10:26 +0000"
@@ -16470,6 +16500,12 @@
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-27 17:46:59 +0000"
     },
     "done": true
   },
