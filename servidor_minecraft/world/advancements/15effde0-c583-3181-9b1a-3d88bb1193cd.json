@@ -530,6 +530,7 @@
       "minecraft:bamboo_jungle": "2025-06-27 02:16:19 +0000",
       "minecraft:beach": "2025-06-26 19:40:40 +0000",
       "minecraft:dark_forest": "2025-06-26 21:28:54 +0000",
+      "minecraft:sparse_jungle": "2025-06-27 22:56:35 +0000",
       "minecraft:river": "2025-06-25 04:08:57 +0000",
       "minecraft:snowy_plains": "2025-06-26 18:53:07 +0000",
       "minecraft:stony_shore": "2025-06-26 21:08:16 +0000",
@@ -3220,6 +3221,7 @@
       "towering_cliffs": "2025-06-26 21:54:27 +0000",
       "temperate_grove": "2025-06-25 04:48:36 +0000",
       "cold_river": "2025-06-26 21:44:35 +0000",
+      "grassland": "2025-06-27 22:56:31 +0000",
       "gravel_beach": "2025-06-26 02:02:41 +0000",
       "redwoods": "2025-06-27 02:06:11 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:59 +0000",
@@ -3247,6 +3249,7 @@
       "towering_cliffs": "2025-06-26 21:54:27 +0000",
       "temperate_grove": "2025-06-25 04:48:36 +0000",
       "cold_river": "2025-06-26 21:44:35 +0000",
+      "grassland": "2025-06-27 22:56:31 +0000",
       "gravel_beach": "2025-06-26 02:02:41 +0000",
       "redwoods": "2025-06-27 02:06:11 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:59 +0000",
@@ -3270,11 +3273,13 @@
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
       "minecraft:piglin_brute": "2025-06-27 03:41:38 +0000",
       "minecraft:creeper": "2025-06-26 23:02:51 +0000",
+      "minecraft:evoker": "2025-06-27 22:57:20 +0000",
       "minecraft:phantom": "2025-06-27 05:06:48 +0000",
       "minecraft:zombified_piglin": "2025-06-26 22:17:14 +0000",
       "minecraft:wither_skeleton": "2025-06-27 00:56:03 +0000",
       "minecraft:piglin": "2025-06-27 03:23:59 +0000",
       "minecraft:stray": "2025-06-26 20:22:06 +0000",
+      "minecraft:vex": "2025-06-27 22:58:03 +0000",
       "minecraft:zombie": "2025-06-25 04:09:14 +0000",
       "minecraft:drowned": "2025-06-26 20:10:59 +0000"
     },
@@ -5831,6 +5836,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-06-27 22:57:20 +0000",
       "killed_illusioner": "2025-06-25 04:28:43 +0000"
     },
     "done": false
@@ -16305,6 +16311,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_great_hammer": {
     "criteria": {
       "has_leather": "2025-06-27 22:42:07 +0000"
@@ -16314,6 +16326,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-27 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-27 22:53:20 +0000"
     },
     "done": true
   },
@@ -16353,6 +16371,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/roasted_nuts_from_campfire": {
     "criteria": {
       "has_nut": "2025-06-27 22:39:32 +0000"
@@ -16389,6 +16413,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-06-27 22:42:07 +0000"
@@ -16398,6 +16428,24 @@
   "techreborn:recipes/misc/crafting_table/nugget/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-06-27 22:43:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-06-27 22:53:20 +0000"
     },
     "done": true
   },
@@ -16431,6 +16479,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/silver_chestplate": {
     "criteria": {
       "has_silver_ingot": "2025-06-27 22:43:09 +0000"
@@ -16455,9 +16509,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-06-27 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
     },
     "done": true
   },
@@ -16482,6 +16560,18 @@
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2025-06-27 22:39:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-27 22:53:20 +0000"
     },
     "done": true
   },
@@ -16521,6 +16611,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/brazier": {
     "criteria": {
       "has_item": "2025-06-27 22:43:09 +0000"
@@ -16545,6 +16641,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-06-27 22:53:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:refinediron": {
     "criteria": {
       "crit_0": "2025-06-27 22:44:15 +0000"
@@ -16563,6 +16665,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_nuts": "2025-06-27 22:39:32 +0000"
@@ -16572,6 +16680,12 @@
   "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
     "criteria": {
       "has_basic_machine_frame": "2025-06-27 22:44:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-06-27 22:53:20 +0000"
     },
     "done": true
   },
@@ -16599,6 +16713,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-06-27 22:53:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
     "criteria": {
       "has_silver_ingot": "2025-06-27 22:43:09 +0000"
@@ -16611,9 +16731,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-06-27 22:53:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_nuts": "2025-06-27 22:39:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
     },
     "done": true
   },
@@ -16626,6 +16764,18 @@
   "techreborn:recipes/compressor/advanced_alloy_plate": {
     "criteria": {
       "has_tag_c_advanced_alloy_ingots": "2025-06-27 22:43:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-27 22:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-27 22:53:20 +0000"
     },
     "done": true
   },
@@ -16659,6 +16809,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-06-27 22:44:15 +0000"
@@ -16674,6 +16830,24 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-06-27 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-27 22:54:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-06-27 22:57:46 +0000"
     },
     "done": true
   },

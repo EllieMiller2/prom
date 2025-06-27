@@ -535,11 +535,13 @@
       "minecraft:bamboo_jungle": "2025-06-27 02:16:18 +0000",
       "minecraft:beach": "2025-06-26 19:40:41 +0000",
       "minecraft:dark_forest": "2025-06-25 18:11:59 +0000",
+      "minecraft:sparse_jungle": "2025-06-27 22:55:09 +0000",
       "minecraft:river": "2025-06-25 17:51:28 +0000",
       "minecraft:snowy_plains": "2025-06-26 17:54:16 +0000",
       "minecraft:stony_shore": "2025-06-26 21:08:05 +0000",
       "minecraft:dripstone_caves": "2025-06-25 17:44:50 +0000",
       "minecraft:snowy_taiga": "2025-06-26 17:53:57 +0000",
+      "minecraft:grove": "2025-06-27 22:49:11 +0000",
       "minecraft:jagged_peaks": "2025-06-27 22:46:39 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:35:20 +0000",
       "minecraft:forest": "2025-06-26 01:22:56 +0000",
@@ -5353,13 +5355,16 @@
       "frozen_pine_taiga": "2025-06-27 22:38:56 +0000",
       "magnolia_highlands": "2025-06-27 21:41:08 +0000",
       "sparse_redwoods": "2025-06-27 02:05:04 +0000",
+      "mountains": "2025-06-27 22:49:51 +0000",
       "boreal_forest": "2025-06-25 18:37:20 +0000",
       "towering_cliffs": "2025-06-25 18:23:49 +0000",
+      "chalk_cliffs": "2025-06-27 22:55:13 +0000",
       "infernal_holt": "2025-06-26 22:26:44 +0000",
       "temperate_grove": "2025-06-26 21:08:54 +0000",
       "cold_river": "2025-06-25 18:47:43 +0000",
       "pumpkin_fields": "2025-06-26 21:40:26 +0000",
       "old_growth_bayou": "2025-06-25 18:25:20 +0000",
+      "grassland": "2025-06-27 22:54:11 +0000",
       "gravel_beach": "2025-06-26 01:57:23 +0000",
       "redwoods": "2025-06-27 02:06:07 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:56 +0000",
@@ -5386,12 +5391,15 @@
       "frozen_pine_taiga": "2025-06-27 22:38:56 +0000",
       "magnolia_highlands": "2025-06-27 21:41:08 +0000",
       "sparse_redwoods": "2025-06-27 02:05:04 +0000",
+      "mountains": "2025-06-27 22:49:51 +0000",
       "boreal_forest": "2025-06-25 18:37:20 +0000",
       "towering_cliffs": "2025-06-25 18:23:49 +0000",
+      "chalk_cliffs": "2025-06-27 22:55:13 +0000",
       "temperate_grove": "2025-06-26 21:08:54 +0000",
       "cold_river": "2025-06-25 18:47:43 +0000",
       "pumpkin_fields": "2025-06-26 21:40:26 +0000",
       "old_growth_bayou": "2025-06-25 18:25:20 +0000",
+      "grassland": "2025-06-27 22:54:11 +0000",
       "gravel_beach": "2025-06-26 01:57:23 +0000",
       "redwoods": "2025-06-27 02:06:07 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:56 +0000",
@@ -16850,6 +16858,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-06-27 22:59:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
     "criteria": {
       "has_fishing_rod": "2025-06-27 22:32:15 +0000"
@@ -16868,9 +16882,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/rolling_machine/nichrome_heating_coil": {
+    "criteria": {
+      "has_chrome_ingot": "2025-06-27 22:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-27 22:35:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/chrome_nugget": {
+    "criteria": {
+      "has_chrome_ingot": "2025-06-27 22:59:01 +0000"
     },
     "done": true
   },
@@ -16922,6 +16948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-27 22:50:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-27 22:35:28 +0000"
@@ -16931,6 +16963,24 @@
   "techreborn:recipes/compressor/lead_plate": {
     "criteria": {
       "has_tag_c_lead_ingots": "2025-06-27 22:36:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/matter_fabricator": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-06-27 22:59:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chunk_loader": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-06-27 22:59:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/chrome_dust": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-06-27 22:59:01 +0000"
     },
     "done": true
   },
@@ -16946,6 +16996,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/distillation_tower": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-06-27 22:59:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-06-27 22:50:25 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-06-27 22:29:56 +0000"
@@ -16958,6 +17020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-27 22:50:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/battery/red_cell_battery": {
     "criteria": {
       "has_lead_ingot": "2025-06-27 22:36:21 +0000"
@@ -16967,6 +17035,30 @@
   "mcda:recipes/base_armors/scale_mail_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-06-27 22:29:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-06-27 22:51:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/chrome_plate": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-06-27 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/fluid_replicator": {
+    "criteria": {
+      "has_industrial_machine_frame": "2025-06-27 22:59:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/chrome_storage_block": {
+    "criteria": {
+      "has_chrome_ingot": "2025-06-27 22:59:01 +0000"
     },
     "done": true
   },

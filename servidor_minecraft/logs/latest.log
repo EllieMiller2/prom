@@ -2385,3 +2385,88 @@ BCLib - Nether BiomeSource (4be7fa48)
 [22:52:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4919ms or 98 ticks behind
 [22:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
 [22:52:27] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian]] from pos class_2338{x=-2101, y=98, z=5}
+[22:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9153ms or 183 ticks behind
+[22:53:04] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas]] from pos class_2338{x=-2091, y=90, z=-187}
+[22:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7698ms or 153 ticks behind
+[22:53:17] [Server thread/INFO]: Villager class_1646['Solomon'/23505, l='ServerLevel[world]', x=-1986.30, y=92.00, z=734.99] died, message: 'Solomon was slain by Zombie'
+[22:53:17] [Server thread/INFO]: Named entity class_1646['Solomon'/23505, l='ServerLevel[world]', x=-1986.30, y=92.00, z=734.99] died: Solomon was slain by Zombie
+[22:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[22:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3531ms or 70 ticks behind
+[22:54:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
+[22:54:12] [Server thread/INFO]: Named entity class_1641['Solomon'/33142, l='ServerLevel[world]', x=-1974.81, y=101.00, z=723.50] died: Solomon burned to death
+[22:54:25] [Server thread/WARN]: Dragon (vehicle of Tfu2) moved wrongly! 0.3320820189691176
+[22:54:25] [Server thread/WARN]: Dragon (vehicle of Tfu2) moved wrongly! 0.7746614737427535
+[22:54:25] [Server thread/WARN]: Dragon (vehicle of Tfu2) moved wrongly! 1.011476915909725
+[22:54:25] [Server thread/WARN]: Dragon (vehicle of Tfu2) moved wrongly! 1.1381921374227204
+[22:54:25] [Server thread/WARN]: Dragon (vehicle of Tfu2) moved wrongly! 1.2059949260253688
+[22:54:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4174ms or 83 ticks behind
+[22:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[22:55:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:55:07] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos class_2338{x=-2123, y=75, z=-533}
+[22:55:19] [Server thread/INFO]: Villager class_1646['Shirleen'/35574, l='ServerLevel[world]', x=-2165.50, y=62.00, z=-504.50] died, message: 'Shirleen suffocated in a wall'
+[22:55:19] [Server thread/INFO]: Named entity class_1646['Shirleen'/35574, l='ServerLevel[world]', x=-2165.50, y=62.00, z=-504.50] died: Shirleen suffocated in a wall
+[22:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4735ms or 94 ticks behind
+[22:56:54] [Server thread/INFO]: 4ndyl1s3 was slain by Kobold Warrior
+[22:56:54] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.56.54.dat
+[22:56:55] [Netty Epoll Server IO #6/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22:56:55] [Netty Epoll Server IO #6/ERROR]: Combo count: 2 is dual wielding: false
+[22:56:55] [Netty Epoll Server IO #6/ERROR]: Main-hand stack: 0 air
+[22:56:55] [Netty Epoll Server IO #6/ERROR]: Off-hand stack: 0 air
+[22:56:55] [Netty Epoll Server IO #6/ERROR]: Selected slot server: 0 | client: 0
+[22:56:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:56:57] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2180, 64, -460, minecraft:overworld
+[22:57:17] [Server thread/INFO]: Tfu2 was slain by Vindicator
+[22:57:17] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.57.17.dat
+[22:57:17] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22:57:17] [Netty Epoll Server IO #4/ERROR]: Combo count: 4 is dual wielding: false
+[22:57:17] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[22:57:17] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[22:57:17] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 0 | client: 0
+[22:57:17] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[22:57:19] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:57:26] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to -2139.500000, 83.500000, -503.500000]
+[22:57:28] [Server thread/INFO]: Tfu2 was slain by Vindicator
+[22:57:30] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:57:31] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[22:57:31] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.57.31.dat
+[22:57:31] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -2141, 83, -503, minecraft:overworld
+[22:57:32] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:57:47] [Server thread/INFO]: Tfu2 was slain by Vex
+[22:57:47] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.57.47.dat
+[22:57:48] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:57:49] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -2142, 83, -501, minecraft:overworld
+[22:58:00] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2126, 64, -477, minecraft:overworld
+[22:58:04] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[22:58:04] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.58.04.dat
+[22:58:04] [Server thread/INFO]: Tfu2 was slain by Vex
+[22:58:04] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.58.04.dat
+[22:58:05] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:58:06] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:58:08] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2124, 64, -462, minecraft:overworld
+[22:58:08] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -2148, 84, -494, minecraft:overworld
+[22:58:11] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[22:58:11] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.58.11.dat
+[22:58:11] [Netty Epoll Server IO #6/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22:58:11] [Netty Epoll Server IO #6/ERROR]: Combo count: 2 is dual wielding: false
+[22:58:11] [Netty Epoll Server IO #6/ERROR]: Main-hand stack: 0 air
+[22:58:11] [Netty Epoll Server IO #6/ERROR]: Off-hand stack: 0 air
+[22:58:11] [Netty Epoll Server IO #6/ERROR]: Selected slot server: 0 | client: 0
+[22:58:12] [Server thread/INFO]: Tfu2 was slain by Vex
+[22:58:12] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.58.12.dat
+[22:58:12] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22:58:12] [Netty Epoll Server IO #4/ERROR]: Combo count: 1 is dual wielding: false
+[22:58:12] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[22:58:12] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[22:58:12] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 0 | client: 0
+[22:58:13] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:58:13] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-2010, y=9, z=-704}
+[22:58:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:58:17] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2126, 64, -461, minecraft:overworld
+[22:58:17] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -2149, 84, -491, minecraft:overworld
+[22:59:41] [Server thread/INFO]: [4ndyl1s3: Teleported Tfu2 to 4ndyl1s3]
+[23:01:29] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[23:01:29] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-23.01.29.dat
+[23:01:31] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:01:36] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[23:01:38] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:01:43] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2167, 64, -492, minecraft:overworld
