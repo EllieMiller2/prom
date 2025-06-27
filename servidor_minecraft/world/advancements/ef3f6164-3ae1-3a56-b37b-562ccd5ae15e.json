@@ -5095,6 +5095,7 @@
       "minecraft:vindicator": "2025-06-26 01:36:51 +0000",
       "minecraft:piglin_brute": "2025-06-25 18:40:50 +0000",
       "minecraft:spider": "2025-06-25 18:30:51 +0000",
+      "minecraft:phantom": "2025-06-27 05:06:56 +0000",
       "minecraft:witch": "2025-06-26 01:52:52 +0000",
       "minecraft:wither_skeleton": "2025-06-27 01:20:19 +0000",
       "minecraft:cave_spider": "2025-06-26 01:56:33 +0000",
@@ -15678,6 +15679,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-06-27 04:55:07 +0000"
@@ -15696,9 +15703,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-06-27 05:06:59 +0000"
     },
     "done": true
   },
@@ -15720,6 +15745,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:06:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
@@ -15738,6 +15769,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
@@ -15750,9 +15787,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-06-27 05:06:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
     },
     "done": true
   },
@@ -15771,6 +15820,12 @@
   "regions_unexplored:recipes/redstone/redwood_button": {
     "criteria": {
       "has_redwood_planks": "2025-06-27 04:44:15 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cyan_coffin": {
+    "criteria": {
+      "has_item": "2025-06-27 05:14:25 +0000"
     },
     "done": true
   },
@@ -15801,6 +15856,12 @@
   "betterend:recipes/misc/fortune_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:06:57 +0000"
     },
     "done": true
   },
@@ -15966,6 +16027,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:06:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
@@ -16020,6 +16087,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/sugar": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/warped_bookshelf": {
     "criteria": {
       "has_book": "2025-06-27 04:55:07 +0000"
@@ -16031,6 +16104,12 @@
       "has_book": "2025-06-27 04:55:07 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-27 05:06:56 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
@@ -16074,9 +16153,33 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2025-06-27 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2025-06-27 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-06-27 05:15:57 +0000"
     },
     "done": true
   },

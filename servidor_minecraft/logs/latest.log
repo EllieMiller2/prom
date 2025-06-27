@@ -2518,3 +2518,35 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:10:47] [Server thread/INFO]: 4ndyl1s3 was blown up by Night Lich
 [05:10:47] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.10.47.dat
 [05:10:48] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[05:10:54] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[05:11:00] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1517, 62, 1556, minecraft:overworld
+[05:11:28] [Server thread/INFO]: 4ndyl1s3 was slain by Phantom
+[05:11:28] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.11.28.dat
+[05:11:30] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[05:12:05] [Server thread/INFO]: Allend has completed the challenge [Night Vanquisher]
+[05:12:05] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:12:05] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:12:16] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[05:12:30] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[05:12:46] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[05:12:48] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1527, 135, 1548, minecraft:overworld
+[05:12:58] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1515, 56, 1523, minecraft:overworld
+[05:13:55] [Server thread/INFO]: Teleported 4ndyl1s3 to Allend
+[05:14:12] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[05:14:21] [Server thread/INFO]: Teleported Tfu2 to 4ndyl1s3
+[05:14:59] [Server thread/INFO]: [Allend: Teleported Allend to 1281.500000, 88.500000, 1428.500000]
+[05:15:05] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[05:15:09] [Server thread/INFO]: Tfu2 lost connection: Disconnected
+[05:15:09] [Server thread/INFO]: Tfu2 left the game
+[05:15:09] [Server thread/INFO]: remove player wand
+[05:15:09] [Server thread/INFO]: Updating all forceload tickets for 15effde0-c583-3181-9b1a-3d88bb1193cd
+[05:15:14] [Server thread/INFO]: Allend lost connection: Disconnected
+[05:15:14] [Server thread/INFO]: Allend left the game
+[05:15:14] [Server thread/INFO]: remove player wand
+[05:15:14] [Server thread/INFO]: Updating all forceload tickets for ae65d232-9e2e-388b-b9f8-5eb2a1405241
+[05:16:39] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Stay dead]
+[05:17:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1826, y=16, z=1806}
+[05:21:01] [Server thread/INFO]: 4ndyl1s3 lost connection: Disconnected
+[05:21:01] [Server thread/INFO]: 4ndyl1s3 left the game
+[05:21:01] [Server thread/INFO]: remove player wand
+[05:21:01] [Server thread/INFO]: Updating all forceload tickets for ef3f6164-3ae1-3a56-b37b-562ccd5ae15e

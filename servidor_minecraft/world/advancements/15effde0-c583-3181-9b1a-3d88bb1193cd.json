@@ -3266,6 +3266,7 @@
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
       "minecraft:piglin_brute": "2025-06-27 03:41:38 +0000",
       "minecraft:creeper": "2025-06-26 23:02:51 +0000",
+      "minecraft:phantom": "2025-06-27 05:06:48 +0000",
       "minecraft:zombified_piglin": "2025-06-26 22:17:14 +0000",
       "minecraft:wither_skeleton": "2025-06-27 00:56:03 +0000",
       "minecraft:piglin": "2025-06-27 03:23:59 +0000",
@@ -15961,6 +15962,42 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone_slab": "2025-06-27 04:20:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-27 05:06:48 +0000"
+    },
+    "done": false
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-06-27 05:07:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-06-27 05:07:30 +0000"
     },
     "done": true
   },
