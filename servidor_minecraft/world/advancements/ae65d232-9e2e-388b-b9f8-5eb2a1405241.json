@@ -12820,6 +12820,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-27 00:03:12 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2025-06-26 22:04:23 +0000"
@@ -12931,6 +12937,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-26 23:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-27 00:03:12 +0000"
     },
     "done": true
   },
@@ -13474,6 +13486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-27 00:03:12 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-26 22:44:07 +0000"
@@ -13945,6 +13963,12 @@
   "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-26 21:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-27 00:03:12 +0000"
     },
     "done": true
   },
