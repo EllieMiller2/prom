@@ -12133,8 +12133,12 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:upside_down_forest_cleared": "2025-06-27 03:31:40 +0000",
+      "betternether:old_fungiwoods": "2025-06-27 03:28:15 +0000",
       "betternether:magma_land": "2025-06-26 21:58:45 +0000",
-      "betternether:nether_jungle": "2025-06-27 02:36:56 +0000"
+      "betternether:nether_mushroom_forest_edge": "2025-06-27 03:28:13 +0000",
+      "betternether:nether_jungle": "2025-06-27 02:36:56 +0000",
+      "betternether:nether_mushroom_forest": "2025-06-27 03:29:42 +0000"
     },
     "done": false
   },
@@ -15447,6 +15451,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-06-27 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-27 03:36:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bone_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2025-06-27 03:24:48 +0000"
@@ -15465,9 +15481,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-27 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-27 03:36:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2025-06-27 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-27 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-06-27 03:29:22 +0000"
     },
     "done": true
   },
@@ -15480,6 +15520,18 @@
   "betternether:recipes/redstone/bone_cin_door": {
     "criteria": {
       "has_bone_block": "2025-06-27 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-06-27 03:36:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_chiseled_polished_blackstone": "2025-06-27 03:35:11 +0000"
     },
     "done": true
   },

@@ -2602,3 +2602,18 @@ BCLib - Nether BiomeSource (189f4248)
 [03:30:34] [Server thread/INFO]: [Allend: Teleported Allend to Tfu2]
 [03:30:45] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/8033, l='ServerLevel[world]', x=105.00, y=31.00, z=724.00] as it would cause deadlock
 [03:30:45] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/8035, l='ServerLevel[world]', x=105.00, y=31.00, z=724.00] as it would cause deadlock
+[03:33:25] [Server thread/INFO]: Allend has completed the challenge [Return to Sender]
+[03:35:53] [Server thread/INFO]: Allend has made the advancement [War Pigs]
+[03:36:01] [Server thread/INFO]: Tfu2 has made the advancement [War Pigs]
+[03:36:11] [Server thread/INFO]: Allend has made the advancement [Cover Me with Diamonds]
+[03:36:12] [Server thread/INFO]: Tfu2 has made the advancement [A New Protector...]
+[03:38:19] [Server thread/INFO]: Allend has made the advancement [The Beginning of An Adventure]
+[03:38:19] [Server thread/INFO]: Allend has made the advancement [A New Protector...]
+[03:38:32] [Server thread/INFO]: Allend has made the advancement [Who is Cutting Onions?]
+[03:38:45] [Server thread/INFO]: Tfu2 was slain by Blaze
+[03:38:45] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-03.38.45.dat
+[03:38:46] [Server thread/INFO]: Allend has made the advancement [Into Fire]
+[03:38:46] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[03:38:52] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[03:38:53] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[03:38:54] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -403, 57, 607, minecraft:the_nether
