@@ -571,7 +571,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-25 18:39:00 +0000",
-      "opened_chest": "2025-06-25 17:38:40 +0000"
+      "opened_chest": "2025-06-25 17:38:40 +0000",
+      "opened_cart": "2025-06-27 17:13:26 +0000"
     },
     "done": false
   },
@@ -16252,6 +16253,48 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "revenant": "2025-06-27 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-06-27 17:15:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-06-27 17:13:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-06-27 17:15:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-06-27 17:15:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-06-27 17:15:50 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/blue_coffin": {
+    "criteria": {
+      "has_item": "2025-06-27 17:10:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-06-27 17:15:50 +0000"
     },
     "done": true
   },
