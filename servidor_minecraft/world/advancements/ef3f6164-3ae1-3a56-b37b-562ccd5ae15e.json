@@ -16263,9 +16263,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-27 18:24:34 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-06-27 17:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-27 18:24:34 +0000"
     },
     "done": true
   },
@@ -16281,6 +16293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-27 18:23:06 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-06-27 17:34:43 +0000"
@@ -16290,6 +16308,12 @@
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 18:23:06 +0000"
     },
     "done": true
   },
@@ -16305,9 +16329,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-27 18:24:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/enchanted_golden_apple": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-27 17:35:48 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 18:23:06 +0000"
     },
     "done": true
   },
@@ -16323,9 +16359,33 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-27 18:23:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/gold_plate_from_block": {
     "criteria": {
       "has_gold_block": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-06-27 18:23:06 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 18:23:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-06-27 18:24:34 +0000"
     },
     "done": true
   },
@@ -16368,6 +16428,18 @@
   "bewitchment:recipes/tools/taglock": {
     "criteria": {
       "has_item": "2025-06-27 17:34:43 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-27 18:24:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-06-27 18:23:06 +0000"
     },
     "done": true
   },
@@ -16467,9 +16539,27 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 18:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-27 18:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-27 17:35:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-27 18:23:06 +0000"
     },
     "done": true
   },
@@ -16506,6 +16596,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-27 17:46:59 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-27 18:24:34 +0000"
     },
     "done": true
   },
@@ -16554,6 +16650,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_golden": {
     "criteria": {
       "has_core_specification_item": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-06-27 18:23:06 +0000"
     },
     "done": true
   },
