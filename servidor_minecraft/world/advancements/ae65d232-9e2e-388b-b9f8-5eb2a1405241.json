@@ -7805,6 +7805,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-27 03:37:28 +0000",
       "minecraft:skeleton": "2025-06-25 04:40:29 +0000",
       "minecraft:ghast": "2025-06-27 03:22:42 +0000",
       "minecraft:spider": "2025-06-26 02:10:12 +0000",
@@ -14836,9 +14837,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_boots": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
     },
     "done": true
   },
@@ -14902,6 +14921,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-06-27 03:29:42 +0000"
@@ -14932,9 +14963,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-06-27 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
+    "criteria": {
+      "has_ruby_upgrade_smithing_template": "2025-06-27 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-06-27 03:41:10 +0000"
     },
     "done": true
   },
@@ -14956,9 +15023,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
     "criteria": {
       "has_diamond_helmet": "2025-06-27 03:36:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
     },
     "done": true
   },
@@ -15010,6 +15089,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
@@ -15034,6 +15119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2025-06-27 03:35:53 +0000"
@@ -15043,6 +15134,12 @@
   "betternether:recipes/building_blocks/bone_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2025-06-27 03:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
     },
     "done": true
   },
@@ -15082,6 +15179,12 @@
     },
     "done": true
   },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-27 03:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 03:19:30 +0000"
@@ -15103,6 +15206,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
     "criteria": {
       "has_bar": "2025-06-27 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-27 03:38:03 +0000"
     },
     "done": true
   },
@@ -15130,9 +15239,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 03:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-27 03:38:46 +0000"
     },
     "done": true
   },
@@ -15154,9 +15281,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 03:19:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-06-27 03:38:46 +0000"
     },
     "done": true
   },
@@ -15172,6 +15311,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-27 03:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-06-27 03:36:11 +0000"
@@ -15181,6 +15332,12 @@
   "betternether:recipes/redstone/bone_block_bone_plate": {
     "criteria": {
       "has_bone_block": "2025-06-27 03:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
     },
     "done": true
   },
@@ -15262,6 +15419,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 03:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-06-27 03:36:19 +0000"
@@ -15322,9 +15485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-27 03:38:32 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
     },
     "done": true
   },
@@ -15334,9 +15509,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-06-27 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-27 03:38:46 +0000"
     },
     "done": true
   },
@@ -15358,6 +15551,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_red_mushroom": {
     "criteria": {
       "has_wall_mushroom_red": "2025-06-27 03:35:03 +0000"
@@ -15376,6 +15575,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-27 03:38:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
@@ -15391,6 +15596,12 @@
   "minecells:book/mobs/inquisitor": {
     "criteria": {
       "requirement": "2025-06-27 03:02:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-06-27 03:38:46 +0000"
     },
     "done": true
   },
@@ -15478,6 +15689,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-06-27 03:41:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_red": {
     "criteria": {
       "has_item": "2025-06-27 03:28:38 +0000"
@@ -15520,6 +15737,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-06-27 03:38:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
     "criteria": {
       "has_diamond_helmet": "2025-06-27 03:36:11 +0000"
@@ -15544,9 +15767,21 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "cursed_eye": "2025-06-27 03:38:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-06-27 03:35:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-06-27 03:38:19 +0000"
     },
     "done": true
   },

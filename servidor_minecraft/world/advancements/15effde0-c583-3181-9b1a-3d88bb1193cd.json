@@ -3260,8 +3260,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-26 02:23:23 +0000",
+      "minecraft:blaze": "2025-06-27 03:38:29 +0000",
       "minecraft:skeleton": "2025-06-26 01:34:51 +0000",
       "minecraft:spider": "2025-06-26 01:54:57 +0000",
+      "minecraft:piglin_brute": "2025-06-27 03:41:38 +0000",
       "minecraft:creeper": "2025-06-26 23:02:51 +0000",
       "minecraft:zombified_piglin": "2025-06-26 22:17:14 +0000",
       "minecraft:wither_skeleton": "2025-06-27 00:56:03 +0000",
@@ -15439,6 +15441,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bone_wall": {
     "criteria": {
       "has_bone_block": "2025-06-27 03:24:48 +0000"
@@ -15451,9 +15465,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ruby_upgrade_smithing_template": {
+    "criteria": {
+      "has_ruby_upgrade_smithing_template": "2025-06-27 03:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
       "has_wall_mushroom_brown": "2025-06-27 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
     },
     "done": true
   },
@@ -15469,9 +15519,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/bone_block_bone_plate": {
     "criteria": {
       "has_bone_block": "2025-06-27 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
     },
     "done": true
   },
@@ -15493,15 +15573,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-27 03:38:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2025-06-27 03:24:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-27 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-27 03:37:30 +0000"
     },
     "done": true
   },
@@ -15520,6 +15624,12 @@
   "betternether:recipes/redstone/bone_cin_door": {
     "criteria": {
       "has_bone_block": "2025-06-27 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-27 03:38:41 +0000"
     },
     "done": true
   },
