@@ -2379,3 +2379,33 @@ BCLib - Nether BiomeSource (70814b9b)
 [21:38:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [21:38:36] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=410, minY=22, minZ=234, maxX=566, maxY=96, maxZ=390}
 [21:39:28] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[21:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:40:23] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Heart of the Machine]
+[21:40:26] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[21:42:56] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.4538127979633373
+[21:42:56] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.7490611349155643
+[21:42:56] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.907042633401943
+[21:42:56] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.9915753834306997
+[21:42:56] [Server thread/WARN]: Żar-ptak (vehicle of 4ndyl1s3) moved wrongly! 0.962440415491983
+[21:43:13] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos class_2338{x=1227, y=74, z=2549}
+[21:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[21:43:15] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[21:43:15] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[21:43:15] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[21:43:25] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=1177, y=251, z=2243}
+[21:43:25] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=1177, y=251, z=2243}
+[21:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[21:43:58] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1400, y=70, z=2613} as the loot table 'dungeons_arise:chests/mushroom_house/mushroom_house_barrel' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[21:44:02] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified]] from pos class_2338{x=1307, y=102, z=2763}
+[21:44:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[21:45:15] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Refined Iron]
+[21:46:15] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna_na]] from pos class_2338{x=1333, y=72, z=3109}
+[21:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
+[21:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:47:50] [Server thread/INFO]: Villager class_1646['Belle'/12174, l='ServerLevel[world]', x=1155.66, y=72.00, z=3018.15] died, message: 'Belle was slain by Zombie'
+[21:47:50] [Server thread/INFO]: Named entity class_1646['Belle'/12174, l='ServerLevel[world]', x=1155.66, y=72.00, z=3018.15] died: Belle was slain by Zombie
+[21:48:13] [Server thread/INFO]: Villager class_1646['Caleb'/3986, l='ServerLevel[world]', x=1170.09, y=240.50, z=1101.09] died, message: 'Caleb hit the ground too hard'
+[21:48:13] [Server thread/INFO]: Named entity class_1646['Caleb'/3986, l='ServerLevel[world]', x=1170.09, y=240.50, z=1101.09] died: Caleb fell from a high place
+[21:48:21] [Server thread/INFO]: Named entity class_1641['Belle'/14142, l='ServerLevel[world]', x=1158.30, y=70.00, z=2994.85] died: Belle was slain by Iron Golem
+[21:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
