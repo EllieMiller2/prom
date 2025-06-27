@@ -15912,6 +15912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-27 05:05:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/quick_charge_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
@@ -15984,6 +15990,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-27 05:05:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-06-27 04:55:07 +0000"
@@ -16035,6 +16047,12 @@
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-27 05:05:56 +0000"
     },
     "done": true
   },
@@ -16121,6 +16139,12 @@
       "has_item.minecraft.book": "2025-06-27 04:55:07 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-06-27 05:05:56 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/multishot_book": {
     "criteria": {

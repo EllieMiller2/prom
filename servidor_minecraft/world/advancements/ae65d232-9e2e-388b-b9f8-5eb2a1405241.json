@@ -292,6 +292,7 @@
       "minecraft:forest": "2025-06-25 04:23:53 +0000",
       "minecraft:deep_cold_ocean": "2025-06-26 21:30:13 +0000",
       "minecraft:frozen_ocean": "2025-06-26 02:05:57 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-27 05:02:39 +0000",
       "minecraft:ocean": "2025-06-26 21:45:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 04:26:30 +0000",
       "minecraft:meadow": "2025-06-25 04:22:42 +0000",
@@ -16161,6 +16162,12 @@
   "soulsweapons:recipes/decorations/chungus_monolith": {
     "criteria": {
       "has_item": "2025-06-27 04:50:49 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-06-27 05:02:39 +0000"
     },
     "done": true
   },

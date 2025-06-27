@@ -2476,3 +2476,45 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:55:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1070, y=-20, z=2072}
 [04:55:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1069, y=-20, z=2072}
 [04:55:48] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1080, y=-28, z=2086}
+[05:00:24] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[05:01:08] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[05:01:55] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[05:02:39] [Server thread/INFO]: Allend has made the advancement [Ice Maze]
+[05:03:58] [Server thread/INFO]: 4ndyl1s3 was slain by Phantom
+[05:03:58] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.03.58.dat
+[05:04:00] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[05:04:02] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[05:04:30] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1296, 62, 1871, minecraft:overworld
+[05:04:55] [Server thread/INFO]: 4ndyl1s3 was slain by Phantom
+[05:04:55] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.04.55.dat
+[05:04:57] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[05:05:01] [Server thread/INFO]: Tfu2 was slain by Phantom
+[05:05:01] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-05.05.01.dat
+[05:05:02] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[05:05:11] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1318, 63, 1857, minecraft:overworld
+[05:05:18] [Server thread/INFO]: 4ndyl1s3 was slain by Phantom
+[05:05:18] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.05.18.dat
+[05:05:19] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[05:05:26] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1287, 105, 1878, minecraft:overworld
+[05:05:34] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1314, 65, 1836, minecraft:overworld
+[05:06:15] [Server thread/INFO]: 4ndyl1s3 was slain by Phantom
+[05:06:15] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.06.15.dat
+[05:06:17] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[05:06:43] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1285, 63, 1760, minecraft:overworld
+[05:07:31] [Server thread/INFO]: 4ndyl1s3 was slain by Phantom
+[05:07:31] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.07.31.dat
+[05:07:33] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[05:07:57] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -1288, 63, 1748, minecraft:overworld
+[05:10:06] [Server thread/INFO]: [Allend: Teleported 4ndyl1s3 to Allend]
+[05:10:14] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[05:10:28] [Server thread/INFO]: Tfu2 was slain by Phantom
+[05:10:28] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-05.10.28.dat
+[05:10:29] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[05:10:35] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[05:10:37] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -1529, 135, 1547, minecraft:overworld
+[05:10:43] [Server thread/INFO]: Tfu2 was slain by Phantom
+[05:10:43] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-05.10.43.dat
+[05:10:45] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[05:10:47] [Server thread/INFO]: 4ndyl1s3 was blown up by Night Lich
+[05:10:47] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-05.10.47.dat
+[05:10:48] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
