@@ -2702,3 +2702,21 @@ BCLib - Nether BiomeSource (189f4248)
 [04:20:21] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
 [04:20:25] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
 [04:20:53] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -481, 33, 502, minecraft:the_nether
+[04:22:31] [Server thread/INFO]: Tfu2 was slain by Zoglin
+[04:22:33] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[04:22:37] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[04:22:39] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -482, 34, 501, minecraft:the_nether
+[04:22:59] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -458, 37, 493, minecraft:the_nether
+[04:23:04] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -460, 37, 484, minecraft:the_nether
+[04:23:06] [Server thread/INFO]: Tfu2 was slain by Zoglin
+[04:23:06] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-04.23.06.dat
+[04:23:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[04:23:13] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[04:23:31] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -435, 34, 486, minecraft:the_nether
+[04:24:07] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -460, 35, 485, minecraft:the_nether
+[04:24:47] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[04:28:05] [Server thread/INFO]: Tfu2 was slain by Zoglin
+[04:28:05] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-04.28.05.dat
+[04:28:06] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[04:28:08] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[04:28:10] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -482, 31, 502, minecraft:the_nether

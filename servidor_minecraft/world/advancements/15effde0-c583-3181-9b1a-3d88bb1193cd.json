@@ -15520,6 +15520,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blackstone_lantern": {
+    "criteria": {
+      "has_blackstone_slab": "2025-06-27 04:19:35 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2025-06-27 03:52:43 +0000"
@@ -15601,6 +15607,12 @@
   "mcda:recipes/base_armors/living_vines_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-06-27 04:20:34 +0000"
     },
     "done": true
   },

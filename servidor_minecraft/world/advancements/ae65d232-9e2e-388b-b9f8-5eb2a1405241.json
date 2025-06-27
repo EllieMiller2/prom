@@ -14930,6 +14930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/drain": {
     "criteria": {
       "has_iron_bars": "2025-06-27 03:35:03 +0000"
@@ -14954,9 +14960,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blackstone_lantern": {
+    "criteria": {
+      "has_blackstone_slab": "2025-06-27 04:18:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-06-27 03:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
     },
     "done": true
   },
@@ -15104,6 +15122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 03:19:30 +0000"
@@ -15113,6 +15137,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-27 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
     },
     "done": true
   },
@@ -15170,6 +15200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-06-27 04:18:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-06-27 03:35:07 +0000"
@@ -15200,6 +15236,12 @@
     },
     "done": true
   },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-06-27 04:23:52 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/taglock": {
     "criteria": {
       "has_item": "2025-06-27 03:52:11 +0000"
@@ -15212,9 +15254,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-06-27 03:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
     },
     "done": true
   },
@@ -15245,6 +15305,18 @@
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-06-27 04:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
     },
     "done": true
   },
@@ -15470,6 +15542,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-27 03:28:38 +0000"
@@ -15518,6 +15602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "minecells:concierge": {
     "criteria": {
       "concierge_killed": "2025-06-27 03:07:55 +0000"
@@ -15539,6 +15629,18 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-06-27 03:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
     },
     "done": true
   },
@@ -15644,6 +15746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/magma_block_with_water": {
     "criteria": {
       "has_magma_block": "2025-06-27 04:10:26 +0000"
@@ -15698,6 +15806,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_weeping_vine_bow": {
+    "criteria": {
+      "has_weeping_vines": "2025-06-27 04:23:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_door": {
     "criteria": {
       "has_redwood_planks": "2025-06-27 03:41:10 +0000"
@@ -15719,6 +15845,12 @@
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-27 03:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
     },
     "done": true
   },
@@ -15836,6 +15968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2025-06-27 03:28:38 +0000"
@@ -15926,6 +16064,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_leggings": {
     "criteria": {
       "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
@@ -15965,6 +16109,12 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-06-27 03:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-27 04:18:05 +0000"
     },
     "done": true
   },
