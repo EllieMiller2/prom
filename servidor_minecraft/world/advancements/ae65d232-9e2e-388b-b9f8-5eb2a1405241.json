@@ -7809,9 +7809,11 @@
       "minecraft:skeleton": "2025-06-25 04:40:29 +0000",
       "minecraft:ghast": "2025-06-27 03:22:42 +0000",
       "minecraft:spider": "2025-06-26 02:10:12 +0000",
+      "minecraft:piglin_brute": "2025-06-27 03:49:15 +0000",
       "minecraft:creeper": "2025-06-25 04:51:14 +0000",
       "minecraft:zombified_piglin": "2025-06-27 03:23:33 +0000",
       "minecraft:cave_spider": "2025-06-26 02:11:19 +0000",
+      "minecraft:piglin": "2025-06-27 03:47:00 +0000",
       "minecraft:silverfish": "2025-06-26 21:15:29 +0000",
       "minecraft:zombie": "2025-06-25 04:37:52 +0000"
     },
@@ -14819,6 +14821,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_helmet": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 03:19:30 +0000"
@@ -14879,9 +14887,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bone_wall": {
     "criteria": {
       "has_bone_block": "2025-06-27 03:24:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-06-27 03:50:35 +0000"
     },
     "done": true
   },
@@ -14912,6 +14932,12 @@
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-27 03:52:11 +0000"
     },
     "done": true
   },
@@ -15071,6 +15097,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_chestplate": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
@@ -15128,6 +15160,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2025-06-27 03:35:53 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2025-06-27 03:52:11 +0000"
     },
     "done": true
   },
@@ -15239,15 +15277,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-27 03:52:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_redwood_planks": "2025-06-27 03:41:10 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 03:19:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-06-27 03:50:35 +0000"
     },
     "done": true
   },
@@ -15491,6 +15547,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-06-27 03:52:53 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
@@ -15584,6 +15646,12 @@
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2025-06-27 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
     },
     "done": true
   },
@@ -15707,6 +15775,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-06-27 03:35:07 +0000"
@@ -15749,9 +15823,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/bone_cin_door": {
     "criteria": {
       "has_bone_block": "2025-06-27 03:24:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2025-06-27 03:49:02 +0000"
     },
     "done": true
   },
@@ -15764,6 +15850,12 @@
   "techreborn:recipes/extractor/bucket_from_lava_bucket": {
     "criteria": {
       "has_lava_bucket": "2025-06-27 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-06-27 03:52:53 +0000"
     },
     "done": true
   },

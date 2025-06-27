@@ -2623,3 +2623,24 @@ BCLib - Nether BiomeSource (189f4248)
 [03:44:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
 [03:44:44] [Server thread/INFO]: [Allend: Teleported Allend to Tfu2]
 [03:44:44] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[03:52:00] [Server thread/INFO]: [Allend: Set spawn point to -437, 23, 610 [0.0] in minecraft:the_nether for 2 players]
+[03:55:59] [Server thread/INFO]: Allend was slain by Nether Gauntlet
+[03:55:59] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_27.06.2025-03.55.59.dat
+[03:56:01] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[03:56:14] [Server thread/INFO]: Allend claimed a grave belonging to Allend at -446, 11, 622, minecraft:the_nether
+[03:56:28] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[03:57:35] [Server thread/INFO]: Allend has made the advancement [Through the Gauntlet]
+[03:57:35] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:57:35] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[03:57:38] [Server thread/INFO]: Tfu2 burned to death
+[03:57:38] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-03.57.38.dat
+[03:57:39] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[03:57:43] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[03:57:47] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -455, 5, 628, minecraft:the_nether
+[04:00:14] [Server thread/INFO]: [Allend: Teleported Allend to -443.500000, 40.500000, 487.500000]
+[04:00:19] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[04:01:11] [Server thread/INFO]: Tfu2 was slain by Zoglin
+[04:01:11] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-04.01.11.dat
+[04:01:13] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[04:01:15] [Server thread/INFO]: [Allend: Teleported Tfu2 to Allend]
+[04:01:17] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at -474, 35, 474, minecraft:the_nether
