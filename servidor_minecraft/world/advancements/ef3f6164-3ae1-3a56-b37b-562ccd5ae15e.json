@@ -540,6 +540,7 @@
       "minecraft:stony_shore": "2025-06-26 21:08:05 +0000",
       "minecraft:dripstone_caves": "2025-06-25 17:44:50 +0000",
       "minecraft:snowy_taiga": "2025-06-26 17:53:57 +0000",
+      "minecraft:jagged_peaks": "2025-06-27 22:46:39 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:35:20 +0000",
       "minecraft:forest": "2025-06-26 01:22:56 +0000",
       "minecraft:lush_caves": "2025-06-25 18:25:55 +0000",
@@ -5349,6 +5350,7 @@
       "flower_fields": "2025-06-25 17:53:09 +0000",
       "highland_fields": "2025-06-25 17:50:50 +0000",
       "maple_forest": "2025-06-25 18:37:34 +0000",
+      "frozen_pine_taiga": "2025-06-27 22:38:56 +0000",
       "magnolia_highlands": "2025-06-27 21:41:08 +0000",
       "sparse_redwoods": "2025-06-27 02:05:04 +0000",
       "boreal_forest": "2025-06-25 18:37:20 +0000",
@@ -5381,6 +5383,7 @@
       "flower_fields": "2025-06-25 17:53:09 +0000",
       "highland_fields": "2025-06-25 17:50:50 +0000",
       "maple_forest": "2025-06-25 18:37:34 +0000",
+      "frozen_pine_taiga": "2025-06-27 22:38:56 +0000",
       "magnolia_highlands": "2025-06-27 21:41:08 +0000",
       "sparse_redwoods": "2025-06-27 02:05:04 +0000",
       "boreal_forest": "2025-06-25 18:37:20 +0000",
@@ -16838,6 +16841,12 @@
   "mcdw:recipes/hammers/hammer_stormlander": {
     "criteria": {
       "has_anvil": "2025-06-27 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glistering_melon_slice": {
+    "criteria": {
+      "has_glistering_melon_slice": "2025-06-27 22:46:00 +0000"
     },
     "done": true
   },
