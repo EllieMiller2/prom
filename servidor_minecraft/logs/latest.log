@@ -2293,3 +2293,93 @@ java.util.ConcurrentModificationException: ThreadLocalRandom accessed from a dif
 [17:23:01] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Source of Evil]
 [17:27:15] [Server thread/WARN]: 4ndyl1s3 moved wrongly!
 [17:28:11] [Server thread/INFO]: 4ndyl1s3 has made the advancement [Tech Reborn]
+[17:30:36] [Server thread/INFO]: 4ndyl1s3 was killed by magic
+[17:30:36] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.30.36.dat
+[17:30:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:30:44] [Server thread/INFO]: 4ndyl1s3 was slain by Zombie
+[17:30:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:30:50] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2748, 6, 1736, minecraft:overworld
+[17:30:56] [Server thread/INFO]: 4ndyl1s3 was shot by Skeleton
+[17:30:56] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.30.56.dat
+[17:30:57] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:31:02] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2748, 6, 1735, minecraft:overworld
+[17:31:04] [Server thread/INFO]: 4ndyl1s3 was slain by Zombie
+[17:31:04] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.31.04.dat
+[17:31:05] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:31:09] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2751, 6, 1734, minecraft:overworld
+[17:31:11] [Server thread/INFO]: 4ndyl1s3 was slain by Zombie
+[17:31:11] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.31.11.dat
+[17:31:11] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:31:11] [Netty Epoll Server IO #5/ERROR]: Combo count: 1 is dual wielding: false
+[17:31:11] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:31:11] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:31:11] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:31:13] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:31:17] [Server thread/INFO]: 4ndyl1s3 was slain by Zombie
+[17:31:18] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:31:27] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2750, 6, 1736, minecraft:overworld
+[17:48:03] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:48:03] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.48.03.dat
+[17:48:05] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:48:17] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:48:18] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:48:35] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:48:36] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:48:51] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2752, -12, 1741, minecraft:overworld
+[17:48:55] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:48:55] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.48.55.dat
+[17:48:56] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:48:57] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2739, -12, 1743, minecraft:overworld
+[17:49:00] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:49:00] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.49.00.dat
+[17:49:00] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:49:00] [Netty Epoll Server IO #5/ERROR]: Combo count: 2 is dual wielding: false
+[17:49:00] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:49:00] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:49:00] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:49:01] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:49:03] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2739, -12, 1741, minecraft:overworld
+[17:49:04] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:49:04] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.49.04.dat
+[17:49:04] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:49:04] [Netty Epoll Server IO #5/ERROR]: Combo count: 0 is dual wielding: false
+[17:49:04] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:49:04] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:49:04] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:49:05] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:49:07] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2739, -12, 1743, minecraft:overworld
+[17:49:14] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:49:14] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.49.14.dat
+[17:49:14] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:49:14] [Netty Epoll Server IO #5/ERROR]: Combo count: 1 is dual wielding: false
+[17:49:14] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:49:14] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:49:14] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:49:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:49:16] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2746, -12, 1741, minecraft:overworld
+[17:49:19] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:49:19] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.49.19.dat
+[17:49:19] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:49:19] [Netty Epoll Server IO #5/ERROR]: Combo count: 2 is dual wielding: false
+[17:49:19] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:49:19] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:49:19] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:49:21] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:49:23] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2748, -12, 1742, minecraft:overworld
+[17:49:24] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:49:24] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.49.24.dat
+[17:49:24] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:49:24] [Netty Epoll Server IO #5/ERROR]: Combo count: 0 is dual wielding: false
+[17:49:24] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:49:24] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:49:24] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:49:25] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:49:26] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2744, -12, 1741, minecraft:overworld
+[17:49:29] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
+[17:49:29] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.49.29.dat
+[17:49:31] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:49:32] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2742, -12, 1742, minecraft:overworld
+[17:50:06] [Server thread/INFO]: 4ndyl1s3 was killed by magic
+[17:50:06] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-17.50.06.dat
+[17:50:09] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[17:50:11] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2748, -12, 1741, minecraft:overworld

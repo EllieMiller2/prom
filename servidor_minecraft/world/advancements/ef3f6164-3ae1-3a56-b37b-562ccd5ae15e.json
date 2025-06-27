@@ -10063,9 +10063,10 @@
   "techreborn:root": {
     "criteria": {
       "crit_2": "2025-06-26 22:49:24 +0000",
-      "crit_1": "2025-06-26 17:42:09 +0000"
+      "crit_1": "2025-06-26 17:42:09 +0000",
+      "crit_0": "2025-06-27 17:28:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
     "criteria": {
@@ -16268,9 +16269,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-27 17:34:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2025-06-27 17:15:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-27 17:35:48 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 17:30:03 +0000"
     },
     "done": true
   },
@@ -16280,9 +16323,99 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/gold_plate_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-06-27 17:43:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-06-27 17:43:52 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2025-06-27 17:34:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/combat/athame": {
+    "criteria": {
+      "has_item": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-27 17:34:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/silver_plate": {
+    "criteria": {
+      "has_tag_c_silver_ingots": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/twig_wand": {
     "criteria": {
       "has_item": "2025-06-27 17:15:50 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/combat/silver_arrow": {
+    "criteria": {
+      "has_item": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-27 17:26:20 +0000"
     },
     "done": true
   },
@@ -16292,9 +16425,51 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/brazier": {
+    "criteria": {
+      "has_item": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/slime_ball_from_sticky_piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-06-27 17:43:52 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/aquamarine_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-06-27 17:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-27 17:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/blue_coffin": {
     "criteria": {
       "has_item": "2025-06-27 17:10:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 17:30:03 +0000"
     },
     "done": true
   },
@@ -16307,6 +16482,42 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-06-27 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/silver_candelabra": {
+    "criteria": {
+      "has_item": "2025-06-27 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-06-27 17:28:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-06-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-27 17:30:03 +0000"
     },
     "done": true
   },
