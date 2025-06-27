@@ -16286,6 +16286,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/magenta_coffin": {
+    "criteria": {
+      "has_item": "2025-06-27 17:17:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/blue_coffin": {
     "criteria": {
       "has_item": "2025-06-27 17:10:26 +0000"
@@ -16295,6 +16301,12 @@
   "botania:recipes/decorations/apothecary_default": {
     "criteria": {
       "has_item": "2025-06-27 17:15:50 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-27 17:23:01 +0000"
     },
     "done": true
   },
