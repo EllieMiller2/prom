@@ -2470,3 +2470,25 @@ BCLib - Nether BiomeSource (4be7fa48)
 [23:01:36] [Server thread/INFO]: 4ndyl1s3 was slain by Vindicator
 [23:01:38] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
 [23:01:43] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2167, 64, -492, minecraft:overworld
+[23:04:29] [Server thread/INFO]: 4ndyl1s3 has completed the challenge [The Magicians]
+[23:04:41] [Server thread/INFO]: 4ndyl1s3 was slain by Vex
+[23:04:41] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-23.04.41.dat
+[23:04:41] [Netty Epoll Server IO #6/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:04:41] [Netty Epoll Server IO #6/ERROR]: Combo count: 1 is dual wielding: false
+[23:04:41] [Netty Epoll Server IO #6/ERROR]: Main-hand stack: 0 air
+[23:04:41] [Netty Epoll Server IO #6/ERROR]: Off-hand stack: 0 air
+[23:04:41] [Netty Epoll Server IO #6/ERROR]: Selected slot server: 0 | client: 0
+[23:04:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:04:45] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2152, 72, -501, minecraft:overworld
+[23:05:17] [Server thread/INFO]: 4ndyl1s3 was slain by Vex
+[23:05:17] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-23.05.17.dat
+[23:05:18] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[23:05:20] [Server thread/INFO]: Tfu2 has made the advancement [Fallen Sorcerer]
+[23:05:27] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at -2140, 75, -485, minecraft:overworld
+[23:07:29] [pool-12-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain_alpine]] from pos class_2338{x=-1797, y=82, z=-283}
+[23:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[23:08:01] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1289.500000, 101.500000, 1372.500000]
+[23:09:35] [Server thread/INFO]: [4ndyl1s3: Teleported Tfu2 to 4ndyl1s3]
+[23:11:37] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1601, y=-51, z=-272}
+[23:12:02] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1838, y=-12, z=-5}
+[23:13:04] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Spectator Mode]
