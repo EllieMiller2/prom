@@ -15965,21 +15965,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/phantom_armor_helmet": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/phantom_armor_chestplate": {
-    "criteria": {
-      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
-    "criteria": {
-      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
+      "traded": "2025-06-27 04:54:25 +0000"
     },
     "done": true
   },
@@ -16001,9 +15989,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
     "criteria": {
-      "traded": "2025-06-27 04:54:25 +0000"
+      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-06-27 05:09:22 +0000"
     },
     "done": true
   },
