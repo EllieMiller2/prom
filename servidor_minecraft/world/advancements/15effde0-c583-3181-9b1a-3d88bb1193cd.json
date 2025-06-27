@@ -15404,5 +15404,23 @@
     },
     "done": true
   },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "teleported_up": "2025-06-27 02:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-06-27 02:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2025-06-27 03:06:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

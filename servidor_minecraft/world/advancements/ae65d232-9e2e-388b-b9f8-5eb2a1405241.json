@@ -14792,5 +14792,41 @@
     },
     "done": true
   },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-06-27 02:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "fall_down": "2025-06-27 02:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/sweeper": {
+    "criteria": {
+      "requirement": "2025-06-27 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/buzzcutter": {
+    "criteria": {
+      "requirement": "2025-06-27 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2025-06-27 03:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/inquisitor": {
+    "criteria": {
+      "requirement": "2025-06-27 03:02:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
