@@ -2532,3 +2532,103 @@ BCLib - Nether BiomeSource (70814b9b)
 [21:59:56] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1274.500000, 33.500000, 1263.500000]
 [21:59:59] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1270, 35, 1269, minecraft:overworld
 [22:00:21] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1268, 39, 1275, minecraft:overworld
+[22:00:56] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:00:56] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.00.56.dat
+[22:00:57] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:01:00] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1271, 37, 1273, minecraft:overworld
+[22:01:01] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:01:01] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.01.01.dat
+[22:01:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:01:05] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1272, 36, 1271, minecraft:overworld
+[22:01:15] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:01:15] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.01.15.dat
+[22:01:17] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:01:18] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1267, 39, 1281, minecraft:overworld
+[22:01:27] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:01:27] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.01.27.dat
+[22:01:32] [Server thread/INFO]: Made 4ndyl1s3 a server operator
+[22:01:32] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:01:35] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:01:36] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1265, 39, 1281, minecraft:overworld
+[22:01:38] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:01:38] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.01.38.dat
+[22:01:40] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:01:41] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Creative Mode]
+[22:01:47] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Survival Mode]
+[22:01:47] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1265, 39, 1281, minecraft:overworld
+[22:01:49] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:01:49] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.01.49.dat
+[22:01:51] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:01:54] [Server thread/INFO]: <Tfu2> mitic mouse
+[22:01:59] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1273.500000, 39.500000, 1279.500000]
+[22:02:01] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:02:02] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:02:03] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1273.500000, 39.500000, 1279.500000]
+[22:02:04] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1273, 39, 1279, minecraft:overworld
+[22:02:06] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:02:06] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.02.06.dat
+[22:02:07] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:02:09] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1276.500000, 39.500000, 1277.500000]
+[22:02:10] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1275, 39, 1277, minecraft:overworld
+[22:02:25] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:02:25] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.02.25.dat
+[22:02:26] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:02:28] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1276.500000, 39.500000, 1277.500000]
+[22:02:30] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1272, 36, 1273, minecraft:overworld
+[22:02:37] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Creative Mode]
+[22:02:47] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:02:47] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.02.47.dat
+[22:02:48] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:02:52] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1285.500000, 46.500000, 1272.500000]
+[22:02:52] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:02:54] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:02:56] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1272.500000, 36.500000, 1273.500000]
+[22:03:03] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:03:04] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:03:07] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1283.500000, 45.500000, 1275.500000]
+[22:03:09] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1285, 46, 1272, minecraft:overworld
+[22:03:40] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Survival Mode]
+[22:03:47] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Creative Mode]
+[22:04:31] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:04:31] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.04.31.dat
+[22:04:33] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:04:35] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1251.500000, 50.500000, 1260.500000]
+[22:04:37] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1252, 50, 1260, minecraft:overworld
+[22:04:37] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:04:37] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.04.37.dat
+[22:04:39] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:04:41] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1253.500000, 47.500000, 1263.500000]
+[22:04:45] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1251, 49, 1263, minecraft:overworld
+[22:05:19] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:05:19] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.05.19.dat
+[22:05:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:05:23] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1251.500000, 57.500000, 1259.500000]
+[22:05:25] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1251, 59, 1258, minecraft:overworld
+[22:05:48] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Survival Mode]
+[22:05:49] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:05:49] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.05.49.dat
+[22:05:51] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:05:53] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1275, 36, 1271, minecraft:overworld
+[22:06:32] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Creative Mode]
+[22:06:50] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:06:50] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.06.50.dat
+[22:06:51] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:06:52] [Server thread/INFO]: [4ndyl1s3: Set own game mode to Survival Mode]
+[22:06:54] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1279.500000, 35.500000, 1263.500000]
+[22:06:54] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:06:54] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.06.54.dat
+[22:06:54] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1279, 35, 1264, minecraft:overworld
+[22:06:55] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:06:58] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1274, 38, 1275, minecraft:overworld
+[22:08:01] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:08:01] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_27.06.2025-22.08.01.dat
+[22:08:03] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:08:08] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1280.500000, 41.500000, 1275.500000]
+[22:08:09] [Server thread/INFO]: Tfu2 was slain by Dragon
+[22:08:11] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[22:08:13] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1280.500000, 41.500000, 1275.500000]
+[22:08:14] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 1280, 41, 1275, minecraft:overworld
+[22:08:15] [Server thread/INFO]: 4ndyl1s3 was slain by Dragon
+[22:08:15] [Server thread/INFO]: Created new backpack backup file for 4ndyl1s3 with unique ID travelersbackpack.standard_27.06.2025-22.08.15.dat
+[22:08:17] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of 4ndyl1s3 accepted server config.
+[22:08:20] [Server thread/INFO]: 4ndyl1s3 claimed a grave belonging to 4ndyl1s3 at 1274, 38, 1275, minecraft:overworld
