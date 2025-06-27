@@ -14816,6 +14816,24 @@
     },
     "done": true
   },
+  "minecells:concierge": {
+    "criteria": {
+      "concierge_killed": "2025-06-27 03:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_concierge": {
+    "criteria": {
+      "conjunctivius_killed": "2025-06-27 03:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:13:15 +0000"
+    },
+    "done": true
+  },
   "minecells:black_bridge": {
     "criteria": {
       "requirement": "2025-06-27 03:06:27 +0000"

@@ -15422,5 +15422,11 @@
     },
     "done": true
   },
+  "minecells:concierge": {
+    "criteria": {
+      "concierge_killed": "2025-06-27 03:07:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
