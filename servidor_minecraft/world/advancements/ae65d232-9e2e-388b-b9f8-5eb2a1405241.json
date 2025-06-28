@@ -16635,6 +16635,12 @@
     },
     "done": true
   },
+  "rpg_series:path_choose_archer": {
+    "criteria": {
+      "book": "2025-06-28 17:09:35 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/building_blocks/salt_block": {
     "criteria": {
       "has_item": "2025-06-28 15:58:40 +0000"
@@ -16671,9 +16677,27 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-28 17:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-28 16:59:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
     "criteria": {
       "has_diamond_leggings": "2025-06-28 16:31:10 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_archer": {
+    "criteria": {
+      "bind": "2025-06-28 17:09:39 +0000"
     },
     "done": true
   },
@@ -16698,6 +16722,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
     "criteria": {
       "has_diamond_leggings": "2025-06-28 16:31:10 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-06-28 17:09:19 +0000"
     },
     "done": true
   },

@@ -540,6 +540,7 @@
       "minecraft:jagged_peaks": "2025-06-27 22:19:27 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:42:40 +0000",
       "minecraft:forest": "2025-06-25 04:24:58 +0000",
+      "minecraft:lush_caves": "2025-06-28 17:09:46 +0000",
       "minecraft:deep_cold_ocean": "2025-06-26 01:46:40 +0000",
       "minecraft:ice_spikes": "2025-06-26 19:37:17 +0000",
       "minecraft:frozen_ocean": "2025-06-26 01:48:41 +0000",
@@ -3229,6 +3230,7 @@
       "prairie": "2025-06-27 23:07:38 +0000",
       "gravel_beach": "2025-06-26 02:02:41 +0000",
       "redwoods": "2025-06-27 02:06:11 +0000",
+      "golden_boreal_taiga": "2025-06-28 17:11:34 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:59 +0000",
       "lupine_plains": "2025-06-25 04:26:01 +0000"
     },
@@ -3262,6 +3264,7 @@
       "prairie": "2025-06-27 23:07:38 +0000",
       "gravel_beach": "2025-06-26 02:02:41 +0000",
       "redwoods": "2025-06-27 02:06:11 +0000",
+      "golden_boreal_taiga": "2025-06-28 17:11:34 +0000",
       "hyacinth_deeps": "2025-06-26 01:48:59 +0000",
       "lupine_plains": "2025-06-25 04:26:01 +0000"
     },
@@ -17138,6 +17141,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-06-28 16:00:49 +0000"
@@ -17180,9 +17195,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_plate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-28 16:57:57 +0000"
     },
     "done": true
   },
@@ -17198,6 +17225,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_shrub": {
     "criteria": {
       "has_blackwood_sapling": "2025-06-28 15:20:54 +0000"
@@ -17207,6 +17240,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
     "criteria": {
       "has_item": "2025-06-28 15:44:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17228,6 +17267,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_bricks_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-06-28 15:44:03 +0000"
@@ -17243,6 +17288,12 @@
   "techreborn:recipes/extractor/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-06-28 16:36:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17324,6 +17375,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_pillar_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
@@ -17333,6 +17390,12 @@
   "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-28 17:15:29 +0000"
     },
     "done": true
   },
@@ -17372,6 +17435,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/loam": {
     "criteria": {
       "has_clay_ball": "2025-06-28 15:41:16 +0000"
@@ -17381,6 +17450,12 @@
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
       "has_dispenser": "2025-06-28 15:37:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17402,9 +17477,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17420,9 +17507,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17468,6 +17573,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-28 15:44:18 +0000"
@@ -17477,6 +17588,18 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-06-28 16:44:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-28 16:57:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-06-28 17:15:29 +0000"
     },
     "done": true
   },
@@ -17516,6 +17639,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-06-28 15:38:15 +0000"
@@ -17534,9 +17663,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-06-28 15:42:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17582,6 +17723,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
@@ -17612,6 +17759,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_leggings": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
@@ -17633,6 +17786,12 @@
   "mcda:recipes/unique_armors/frost_armor_chestplate": {
     "criteria": {
       "has_snow_armor_chestplate": "2025-06-28 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17669,6 +17828,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17714,6 +17879,18 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
@@ -17723,6 +17900,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-06-28 15:44:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17750,9 +17933,27 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_prismoss": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17810,9 +18011,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-28 16:00:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17837,6 +18062,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-06-28 15:41:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -17912,6 +18143,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingles_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/acacia_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
@@ -17966,6 +18209,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_plate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-06-28 16:00:49 +0000"
@@ -17984,6 +18233,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_plates_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
@@ -17996,15 +18251,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/lava_pendant": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/deepslate_column": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -18029,6 +18308,12 @@
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -18074,6 +18359,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_pavers_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-06-28 15:44:02 +0000"
@@ -18092,9 +18389,21 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-28 17:15:29 +0000"
     },
     "done": true
   },
@@ -18113,6 +18422,12 @@
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -18149,6 +18464,12 @@
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_grass_block": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -18194,9 +18515,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-06-28 16:00:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -18242,6 +18575,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-06-28 16:00:49 +0000"
@@ -18257,6 +18596,18 @@
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -18284,6 +18635,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/dark_oak_slab_from_stairs": {
     "criteria": {
       "has_dark_oak_stairs": "2025-06-28 15:40:13 +0000"
@@ -18293,6 +18650,18 @@
   "botania:recipes/combat/manasteel_boots": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/deepslate_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-28 16:56:36 +0000"
     },
     "done": true
   },
@@ -18317,6 +18686,18 @@
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_iron_nugget": "2025-06-28 15:42:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-28 17:15:29 +0000"
     },
     "done": true
   },
@@ -18356,9 +18737,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-06-28 16:56:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-28 16:57:57 +0000"
     },
     "done": true
   },

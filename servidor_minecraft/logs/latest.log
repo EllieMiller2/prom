@@ -2856,3 +2856,67 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [16:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3859ms or 77 ticks behind
 [16:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
 [16:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[16:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5135ms or 102 ticks behind
+[16:59:09] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 1289.500000, 101.500000, 1372.500000]
+[16:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[16:59:15] [Server thread/INFO]: <Damon7u7xd> encontre algo raro
+[16:59:28] [Server thread/INFO]: Damon7u7xd has made the advancement [Into Darkness]
+[17:00:38] [Server thread/INFO]: Damon7u7xd has made the advancement [Source of Evil]
+[17:01:00] [Server thread/INFO]: Damon7u7xd has made the advancement [Taking from the Dead]
+[17:02:18] [Server thread/INFO]: Damon7u7xd has made the advancement [Enchanter]
+[17:03:57] [Server thread/INFO]: Damon7u7xd was slain by Wraith
+[17:03:57] [Server thread/WARN]: Damon7u7xd moved wrongly!
+[17:03:58] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Damon7u7xd accepted server config.
+[17:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4048ms or 80 ticks behind
+[17:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5353ms or 107 ticks behind
+[17:09:19] [Server thread/INFO]: Allend has reached the goal [Choose your path]
+[17:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8509ms or 170 ticks behind
+[17:09:27] [Server thread/INFO]: Allend has made the advancement [The Secrets of Enchanting]
+[17:09:35] [Server thread/INFO]: Allend has made the advancement [Path of Archery]
+[17:09:39] [Server thread/INFO]: Allend has made the advancement [Lethal Shots]
+[17:09:39] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers:archer isComplete: false
+[17:09:40] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers:archer isComplete: false
+[17:09:40] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers:archer isComplete: false
+[17:09:41] [Server thread/WARN]: Tfu2 moved wrongly!
+[17:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7590ms or 151 ticks behind
+[17:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6084ms or 121 ticks behind
+[17:10:18] [Server thread/INFO]: Villager class_1646['Shizue'/62774, l='ServerLevel[world]', x=1158.22, y=63.00, z=1192.37] died, message: 'Shizue hit the ground too hard'
+[17:10:18] [Server thread/INFO]: Named entity class_1646['Shizue'/62774, l='ServerLevel[world]', x=1158.22, y=63.00, z=1192.37] died: Shizue fell from a high place
+[17:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5420ms or 108 ticks behind
+[17:10:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[17:11:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[17:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6046ms or 120 ticks behind
+[17:11:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4394ms or 87 ticks behind
+[17:12:00] [Server thread/INFO]: Damon7u7xd claimed a grave belonging to Damon7u7xd at 1187, -14, 1208, minecraft:overworld
+[17:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3441ms or 68 ticks behind
+[17:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
+[17:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4025ms or 80 ticks behind
+[17:13:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3702ms or 74 ticks behind
+[17:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[17:13:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[17:13:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[17:14:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[17:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[17:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[17:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[17:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[17:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[17:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5239ms or 104 ticks behind
+[17:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3842ms or 76 ticks behind
+[17:17:09] [Server thread/INFO]: Damon7u7xd was slain by Acolyte
+[17:17:11] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Damon7u7xd accepted server config.
+[17:17:11] [Server thread/INFO]: Damon7u7xd lost connection: Disconnected
+[17:17:11] [Server thread/INFO]: Damon7u7xd left the game
+[17:17:11] [Server thread/INFO]: remove player wand
+[17:17:11] [Server thread/INFO]: Updating all forceload tickets for cbd7c109-b42b-3241-804a-df2d2e0b9e5e
+[17:18:07] [Server thread/INFO]: [Allend: Teleported Allend to Tfu2]
+[17:18:26] [Server thread/INFO]: [Allend: Enabled friendly fire for team [Void]]
+[17:18:47] [Server thread/INFO]: Tfu2 was shot by Allend
+[17:18:47] [Server thread/INFO]: Created new backpack backup file for Tfu2 with unique ID travelersbackpack.standard_28.06.2025-17.18.47.dat
+[17:18:50] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Tfu2 accepted server config.
+[17:18:56] [Server thread/INFO]: [Tfu2: Teleported Tfu2 to 854.500000, 66.500000, 1546.500000]
+[17:18:57] [Server thread/INFO]: Tfu2 claimed a grave belonging to Tfu2 at 854, 64, 1547, minecraft:overworld
