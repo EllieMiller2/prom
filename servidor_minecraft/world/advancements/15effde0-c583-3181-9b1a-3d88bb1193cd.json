@@ -17396,6 +17396,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-28 16:44:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
@@ -17465,6 +17471,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-28 15:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-28 16:44:30 +0000"
     },
     "done": true
   },
@@ -17582,6 +17594,12 @@
     },
     "done": true
   },
+  "alloy_forgery:recipes/alloy_forgery/iron_block": {
+    "criteria": {
+      "has_raw_iron_ore_block": "2025-06-28 16:44:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/redstone/trapped_elder_chest": {
     "criteria": {
       "has_item": "2025-06-28 15:41:17 +0000"
@@ -17627,6 +17645,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-28 15:44:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-28 16:44:30 +0000"
     },
     "done": true
   },
@@ -18014,6 +18038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-06-28 16:44:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
@@ -18128,6 +18158,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-28 16:44:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
@@ -18179,6 +18215,12 @@
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-06-28 16:44:30 +0000"
     },
     "done": true
   },
@@ -18257,6 +18299,12 @@
   "botania:recipes/misc/lens_normal": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-28 16:44:30 +0000"
     },
     "done": true
   },
