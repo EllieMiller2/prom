@@ -17131,9 +17131,27 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-06-28 15:37:45 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/spruce_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
     },
     "done": true
   },
@@ -17149,15 +17167,39 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_shrub": {
     "criteria": {
       "has_blackwood_sapling": "2025-06-28 15:20:54 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
     },
     "done": true
   },
@@ -17197,9 +17239,39 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-06-28 15:37:09 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
     },
     "done": true
   },
@@ -17218,6 +17290,12 @@
   "botania:recipes/tools/knockback_belt": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
     },
     "done": true
   },
@@ -17242,6 +17320,18 @@
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-06-28 15:37:09 +0000"
     },
     "done": true
   },
@@ -17287,9 +17377,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2025-06-28 15:37:48 +0000"
     },
     "done": true
   },
@@ -17347,6 +17449,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_distributor": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
@@ -17368,6 +17476,18 @@
   "botania:recipes/tools/travel_belt": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
     },
     "done": true
   },
@@ -17443,6 +17563,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/swap_ring": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
@@ -17458,6 +17584,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-06-28 15:24:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
     },
     "done": true
   },
@@ -17485,6 +17617,18 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_boots": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
@@ -17500,6 +17644,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-06-28 15:38:15 +0000"
     },
     "done": true
   },
