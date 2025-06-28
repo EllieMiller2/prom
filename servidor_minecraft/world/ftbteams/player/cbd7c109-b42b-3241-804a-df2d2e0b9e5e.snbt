@@ -2,9 +2,7 @@
 	id: "cbd7c109-b42b-3241-804a-df2d2e0b9e5e"
 	type: "player"
 	player_name: "Damon7u7xd"
-	ranks: {
-		cbd7c109-b42b-3241-804a-df2d2e0b9e5e: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Damon7u7xd"
 		"ftbteams:description": ""

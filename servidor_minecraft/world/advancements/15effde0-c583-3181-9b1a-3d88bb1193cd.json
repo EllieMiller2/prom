@@ -3216,11 +3216,13 @@
       "flower_fields": "2025-06-26 19:58:34 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
       "maple_forest": "2025-06-26 02:05:13 +0000",
+      "magnolia_highlands": "2025-06-28 15:33:00 +0000",
       "sparse_redwoods": "2025-06-27 02:02:49 +0000",
       "deciduous_forest": "2025-06-27 23:07:29 +0000",
       "boreal_forest": "2025-06-26 21:54:21 +0000",
       "towering_cliffs": "2025-06-26 21:54:27 +0000",
       "chalk_cliffs": "2025-06-27 23:09:35 +0000",
+      "bamboo_forest": "2025-06-28 15:28:05 +0000",
       "temperate_grove": "2025-06-25 04:48:36 +0000",
       "cold_river": "2025-06-26 21:44:35 +0000",
       "grassland": "2025-06-27 22:56:31 +0000",
@@ -3247,11 +3249,13 @@
       "flower_fields": "2025-06-26 19:58:34 +0000",
       "highland_fields": "2025-06-25 04:51:58 +0000",
       "maple_forest": "2025-06-26 02:05:13 +0000",
+      "magnolia_highlands": "2025-06-28 15:33:00 +0000",
       "sparse_redwoods": "2025-06-27 02:02:49 +0000",
       "deciduous_forest": "2025-06-27 23:07:29 +0000",
       "boreal_forest": "2025-06-26 21:54:21 +0000",
       "towering_cliffs": "2025-06-26 21:54:27 +0000",
       "chalk_cliffs": "2025-06-27 23:09:35 +0000",
+      "bamboo_forest": "2025-06-28 15:28:05 +0000",
       "temperate_grove": "2025-06-25 04:48:36 +0000",
       "cold_river": "2025-06-26 21:44:35 +0000",
       "grassland": "2025-06-27 22:56:31 +0000",
@@ -17133,9 +17137,159 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_shrub": {
     "criteria": {
       "has_blackwood_sapling": "2025-06-28 15:20:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/frost_armor_chestplate": {
+    "criteria": {
+      "has_snow_armor_chestplate": "2025-06-28 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
     },
     "done": true
   },
@@ -17145,15 +17299,93 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
     },
     "done": true
   },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-28 15:28:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-28 15:28:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/acacia_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
     },
     "done": true
   },
@@ -17169,9 +17401,39 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/cypress_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-06-28 15:31:53 +0000"
     },
     "done": true
   },
@@ -17181,9 +17443,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/jungle_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-06-28 15:24:04 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-28 15:24:07 +0000"
     },
     "done": true
   },
@@ -17196,6 +17476,36 @@
   "bewitchment:recipes/decorations/juniper_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-28 15:31:53 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-28 15:31:53 +0000"
     },
     "done": true
   },

@@ -4,6 +4,7 @@
 	owner: "ae65d232-9e2e-388b-b9f8-5eb2a1405241"
 	ranks: {
 		15effde0-c583-3181-9b1a-3d88bb1193cd: "member"
+		cbd7c109-b42b-3241-804a-df2d2e0b9e5e: "member"
 		ae65d232-9e2e-388b-b9f8-5eb2a1405241: "owner"
 		ef3f6164-3ae1-3a56-b37b-562ccd5ae15e: "member"
 	}
@@ -20,6 +21,8 @@
 		{ from: "ae65d232-9e2e-388b-b9f8-5eb2a1405241", date: 1750899230137L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tfu2\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1750899232132L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"4ndyl1s3\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1750899234287L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tfu2\"}]}" }
+		{ from: "ae65d232-9e2e-388b-b9f8-5eb2a1405241", date: 1751124486189L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Damon7u7xd\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751124488181L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Damon7u7xd\"}]}" }
 	]
 	extra: { }
 }

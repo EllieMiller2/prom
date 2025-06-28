@@ -2831,6 +2831,7 @@
       "temperate_grove": "2025-06-26 21:54:04 +0000",
       "cold_river": "2025-06-26 21:52:32 +0000",
       "gravel_beach": "2025-06-26 02:04:30 +0000",
+      "redwoods": "2025-06-28 15:31:50 +0000",
       "golden_boreal_taiga": "2025-06-27 04:53:04 +0000",
       "hyacinth_deeps": "2025-06-26 21:35:10 +0000",
       "lupine_plains": "2025-06-25 04:26:24 +0000"
@@ -2852,6 +2853,7 @@
       "temperate_grove": "2025-06-26 21:54:04 +0000",
       "cold_river": "2025-06-26 21:52:32 +0000",
       "gravel_beach": "2025-06-26 02:04:30 +0000",
+      "redwoods": "2025-06-28 15:31:50 +0000",
       "golden_boreal_taiga": "2025-06-27 04:53:04 +0000",
       "hyacinth_deeps": "2025-06-26 21:35:10 +0000",
       "lupine_plains": "2025-06-25 04:26:24 +0000"
@@ -16198,6 +16200,24 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-27 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-06-28 15:31:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-28 15:24:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2025-06-28 15:31:39 +0000"
     },
     "done": true
   },
