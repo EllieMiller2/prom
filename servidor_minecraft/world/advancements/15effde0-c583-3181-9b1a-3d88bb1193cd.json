@@ -17144,6 +17144,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-06-28 16:40:30 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:loot_vase_broken": {
     "criteria": {
       "criteria": "2025-06-28 15:37:45 +0000"
@@ -17234,6 +17240,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-06-28 16:36:36 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_hanging_sign": {
     "criteria": {
       "has_chain": "2025-06-28 15:38:15 +0000"
@@ -17267,6 +17279,12 @@
   "bewitchment:recipes/decorations/stone_witch_altar": {
     "criteria": {
       "has_item": "2025-06-28 16:00:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-06-28 16:40:30 +0000"
     },
     "done": true
   },
@@ -17369,6 +17387,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 16:00:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-28 16:40:30 +0000"
     },
     "done": true
   },
@@ -17582,6 +17606,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-06-28 16:40:30 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/frost_armor_chestplate": {
     "criteria": {
       "has_snow_armor_chestplate": "2025-06-28 15:31:20 +0000"
@@ -17687,6 +17717,12 @@
   "croptopia:recipes/misc/roasted_pumpkin_seeds": {
     "criteria": {
       "has_pumpkin_seed": "2025-06-28 15:37:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-06-28 16:40:30 +0000"
     },
     "done": true
   },
@@ -17840,6 +17876,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-06-28 16:40:30 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/fatigue_poppet": {
     "criteria": {
       "has_item": "2025-06-28 15:31:53 +0000"
@@ -17849,6 +17891,12 @@
   "bewitchment:recipes/decorations/acacia_poppet_shelf": {
     "criteria": {
       "has_item": "2025-06-28 15:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-06-28 16:36:36 +0000"
     },
     "done": true
   },
@@ -18167,6 +18215,12 @@
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-06-28 15:29:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2025-06-28 16:36:36 +0000"
     },
     "done": true
   },
