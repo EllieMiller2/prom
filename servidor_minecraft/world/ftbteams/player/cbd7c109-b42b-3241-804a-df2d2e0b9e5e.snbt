@@ -1,0 +1,17 @@
+{
+	id: "cbd7c109-b42b-3241-804a-df2d2e0b9e5e"
+	type: "player"
+	player_name: "Damon7u7xd"
+	ranks: {
+		cbd7c109-b42b-3241-804a-df2d2e0b9e5e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Damon7u7xd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#91FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
